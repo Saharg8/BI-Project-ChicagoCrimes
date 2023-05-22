@@ -1,5 +1,4 @@
 הי אור, 
 
 זה הקישור לCollab אשר בו נמצא כל תהליך הSTTM - 
-https://colab.research.google.com/drive/1ofwD6sGYE202ExDFgW348vsSkZEuitdS?usp=sharing
-
+https://colab.research.google.com/drive/1ofwD6sGYE202ExDFgW348vsSkZEuitdS?usp=sharing#scrollTo=054ea345
