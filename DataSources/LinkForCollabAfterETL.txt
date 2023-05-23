@@ -1,7 +1,8 @@
 הי אור, 
 
 זה הקישור לCollab אשר בו נמצא כל תהליך הSTTM - 
-https://colab.research.google.com/drive/1ofwD6sGYE202ExDFgW348vsSkZEuitdS?usp=sharing#scrollTo=054ea345
+https://colab.research.google.com/drive/1ofwD6sGYE202ExDFgW348vsSkZEuitdS?usp=sharing#scrollTo=Ou-C3_H9Oo8u
 
 
-השארנו את זה כDataFrame בCollab , מכיוון שלא ראינו צורך לעשות Export נוסף לקובץ CSV כבד כל כך.
+שים לב, שהקובץ ממש כבד וכדיפולט בCollab ההרצה כולה היא על Sample מהדאטה. אם תרצה, יש בקוד אפשרות לשנות את ההרצה והיישום של הSTTM 
+כולו על כל הדאטה סורס :)

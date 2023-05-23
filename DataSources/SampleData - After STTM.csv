@@ -1,0 +1,16 @@
+ID,Date,PrimaryType,Description,LocationDescription,Arrest,Domestic,CommunityArea,Year
+12587380,1/5/2022 12:10,Criminal Damage,To Vehicle,Street,False,False,65.0,2022
+12099846,7/7/2020 17:00,Deceptive Practice,Fraud Or Confidence Game,Apartment,False,False,8.0,2020
+11981514,2/14/2020 20:10,Battery,Simple,Factory/Manufacturing Building,False,False,61.0,2020
+12693060,5/8/2022 20:25,Criminal Damage,To Property,Residence,False,False,71.0,2022
+11972711,2/4/2020 16:00,Theft,Over $500,Street,False,False,7.0,2020
+12775277,7/13/2022 11:00,Deceptive Practice,Fraud Or Confidence Game,Currency Exchange,False,False,1.0,2022
+12186298,10/6/2020 22:50,Battery,Aggravated - Handgun,Street,False,False,51.0,2020
+12812468,8/31/2022 21:00,Criminal Trespass,To Vehicle,Residence - Garage,False,False,4.0,2022
+12004726,3/9/2020 17:30,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),False,False,46.0,2020
+12869226,10/23/2022 23:00,Motor Vehicle Theft,Automobile,Street,False,False,23.0,2022
+12144934,8/24/2020 6:00,Battery,Domestic Battery Simple,Street,False,True,42.0,2020
+12648817,3/21/2022 16:29,Other Offense,Vehicle Title / Registration Offense,Street,False,False,35.0,2022
+12754367,7/7/2022 12:30,Criminal Damage,To Property,Apartment,False,True,29.0,2022
+12633054,3/3/2022 15:25,Battery,Simple,Commercial / Business Office,False,False,6.0,2022
+12764150,7/17/2022 22:50,Weapons Violation,Unlawful Possession - Handgun,Street,True,False,66.0,2022
