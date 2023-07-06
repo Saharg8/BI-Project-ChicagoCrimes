@@ -1,0 +1,1001 @@
+ID,Date,PrimaryType,Description,LocationDescription,Arrest,Domestic,CommunityArea,Year
+12912209,12/4/2022 14:30,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,6,2022
+12928155,12/20/2022 2:30,Burglary,Forcible Entry,Bar Or Tavern,FALSE,FALSE,1,2022
+12920188,12/11/2022 0:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,20,2022
+12928942,12/20/2022 17:15,Theft,Over $500,Restaurant,FALSE,FALSE,24,2022
+12930057,12/21/2022 21:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12901149,11/22/2022 23:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,43,2022
+12913075,12/5/2022 12:22,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,52,2022
+12935880,12/22/2022 0:00,Burglary,Unlawful Entry,Apartment,FALSE,FALSE,71,2022
+12933738,12/21/2022 15:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,61,2022
+12920133,12/8/2022 5:30,Battery,Aggravated - Other Dangerous Weapon,Residence,FALSE,FALSE,61,2022
+12925383,12/17/2022 4:43,Criminal Damage,To Property,Apartment,FALSE,FALSE,21,2022
+12891695,11/13/2022 7:00,Battery,Simple,Apartment,FALSE,FALSE,53,2022
+12914726,12/6/2022 21:45,Battery,Domestic Battery Simple,Park Property,FALSE,TRUE,66,2022
+12897226,11/17/2022 20:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,22,2022
+12903827,11/25/2022 13:30,Criminal Trespass,To Residence,Apartment,FALSE,FALSE,43,2022
+12920692,12/12/2022 11:00,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,45,2022
+12919535,12/11/2022 14:50,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,68,2022
+12910004,12/2/2022 7:30,Robbery,Armed - Handgun,Alley,FALSE,FALSE,71,2022
+12909241,11/23/2022 12:00,Deceptive Practice,Counterfeit Check,Street,FALSE,FALSE,25,2022
+12895068,11/16/2022 8:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12919242,12/10/2022 17:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,22,2022
+12915286,12/7/2022 10:45,Criminal Damage,To Vehicle,Street,FALSE,FALSE,10,2022
+12927453,12/19/2022 12:35,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,7,2022
+12932773,12/26/2022 1:40,Robbery,Attempt Armed - Handgun,Street,FALSE,FALSE,41,2022
+12923207,12/14/2022 20:38,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,26,2022
+12915551,12/7/2022 17:13,Other Offense,Telephone Threat,Nursing / Retirement Home,FALSE,FALSE,69,2022
+12907105,11/28/2022 18:59,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,8,2022
+12891765,11/13/2022 15:30,Criminal Damage,To Vehicle,Street,FALSE,FALSE,43,2022
+12899106,11/20/2022 20:30,Theft,Over $500,Street,FALSE,FALSE,4,2022
+12919836,11/23/2022 13:00,Theft,Over $500,Apartment,FALSE,FALSE,24,2022
+12905608,11/28/2022 5:08,Battery,Aggravated - Other Dangerous Weapon,Street,FALSE,FALSE,46,2022
+12902298,11/24/2022 0:01,Theft,Over $500,Residence - Garage,FALSE,FALSE,64,2022
+12921510,12/13/2022 9:29,Assault,Simple,Apartment,FALSE,FALSE,21,2022
+12902719,11/24/2022 20:56,Battery,Simple,Apartment,FALSE,FALSE,19,2022
+12950498,12/3/2022 2:26,Deceptive Practice,Financial Identity Theft $300 And Under,Nan,FALSE,FALSE,5,2022
+12976044,12/7/2022 13:00,Deceptive Practice,Financial Identity Theft Over $ 300,Nan,FALSE,FALSE,9,2022
+12891618,11/12/2022 21:35,Assault,Aggravated - Handgun,Residence,FALSE,TRUE,20,2022
+12920054,12/11/2022 22:42,Battery,Aggravated Police Officer - Other Dangerous Weapon,Street,TRUE,FALSE,59,2022
+12920989,12/9/2022 11:00,Theft,Over $500,Vehicle Non-Commercial,FALSE,FALSE,15,2022
+12928226,12/19/2022 5:15,Assault,Simple,Residence,FALSE,FALSE,51,2022
+12977766,11/28/2022 0:00,Deceptive Practice,Financial Identity Theft $300 And Under,Police Facility / Vehicle Parking Lot,FALSE,FALSE,27,2022
+12921345,12/12/2022 14:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,25,2022
+12931970,12/24/2022 17:40,Criminal Damage,To Vehicle,Street,FALSE,FALSE,25,2022
+12929118,12/21/2022 4:23,Assault,Aggravated - Handgun,Street,FALSE,FALSE,63,2022
+12895723,11/14/2022 13:45,Battery,Simple,Residence,FALSE,FALSE,49,2022
+12923933,12/15/2022 8:45,Criminal Damage,To Vehicle,Street,FALSE,FALSE,29,2022
+12925856,12/17/2022 18:30,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,33,2022
+12898574,11/19/2022 12:00,Assault,Aggravated - Other Dangerous Weapon,Apartment,FALSE,TRUE,68,2022
+12927961,12/18/2022 8:00,Burglary,Unlawful Entry,Apartment,FALSE,FALSE,8,2022
+12957369,11/25/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,53,2022
+12909923,12/2/2022 1:45,Battery,Simple,Street,FALSE,FALSE,23,2022
+12920366,12/12/2022 8:10,Criminal Damage,To Property,Commercial / Business Office,FALSE,FALSE,34,2022
+12895551,11/16/2022 20:35,Assault,Simple,Residence,FALSE,TRUE,49,2022
+12894005,11/15/2022 9:50,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,27,2022
+12903328,11/25/2022 16:00,Battery,Domestic Battery Simple,Residence,TRUE,TRUE,58,2022
+12897031,11/17/2022 17:00,Theft,Over $500,Street,FALSE,FALSE,28,2022
+12935589,12/29/2022 5:40,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,43,2022
+12937611,12/30/2022 23:45,Theft,Over $500,Street,FALSE,FALSE,41,2022
+12923429,12/13/2022 20:00,Theft,Over $500,Street,FALSE,FALSE,44,2022
+12920525,12/11/2022 13:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,27,2022
+12930229,12/17/2022 12:21,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,54,2022
+12906034,11/26/2022 22:40,Battery,Domestic Battery Simple,Street,FALSE,TRUE,73,2022
+12928389,12/16/2022 13:00,Battery,Simple,School - Public Grounds,FALSE,FALSE,25,2022
+12904034,11/26/2022 2:02,Criminal Damage,Criminal Defacement,Government Building / Property,FALSE,FALSE,8,2022
+12936741,12/30/2022 3:40,Theft,Over $500,Street,FALSE,FALSE,6,2022
+12927668,12/12/2022 14:58,Assault,Aggravated - Handgun,Convenience Store,FALSE,FALSE,39,2022
+12915591,12/7/2022 17:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,73,2022
+12912660,12/5/2022 4:05,Criminal Damage,To Property,Cta Parking Lot / Garage / Other Property,FALSE,FALSE,56,2022
+12921491,12/12/2022 18:00,Theft,$500 And Under,Street,FALSE,FALSE,12,2022
+12893976,11/15/2022 15:51,Assault,Simple,Alley,FALSE,FALSE,38,2022
+12892814,11/13/2022 22:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,59,2022
+12931198,12/23/2022 10:15,Assault,Simple,Street,FALSE,FALSE,71,2022
+12934453,12/28/2022 0:25,Weapons Violation,Unlawful Use - Other Firearm,Alley,FALSE,FALSE,46,2022
+12904338,11/26/2022 19:30,Theft,From Building,Department Store,FALSE,FALSE,8,2022
+12912227,12/1/2022 17:00,Other Offense,Harassment By Electronic Means,Residence,FALSE,FALSE,24,2022
+12914706,12/6/2022 23:09,Assault,Aggravated - Handgun,Street,FALSE,FALSE,55,2022
+12913122,12/5/2022 7:46,Robbery,Vehicular Hijacking,Parking Lot / Garage (Non Residential),FALSE,FALSE,28,2022
+12898307,11/20/2022 2:39,Burglary,Forcible Entry,Apartment,FALSE,FALSE,77,2022
+12924725,12/15/2022 20:30,Motor Vehicle Theft,Automobile,Residence,FALSE,FALSE,76,2022
+12932503,12/25/2022 11:30,Battery,Domestic Battery Simple,Hotel / Motel,TRUE,TRUE,28,2022
+12921375,12/13/2022 7:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,14,2022
+12908363,11/29/2022 16:30,Deceptive Practice,Fraud Or Confidence Game,Apartment,FALSE,FALSE,20,2022
+12905455,11/27/2022 22:45,Weapons Violation,Unlawful Use - Other Firearm,Alley,FALSE,FALSE,46,2022
+12924878,12/15/2022 15:15,Robbery,Strong Arm - No Weapon,Cta Bus Stop,FALSE,FALSE,71,2022
+12919560,12/11/2022 13:35,Robbery,Armed - Handgun,Alley,FALSE,FALSE,23,2022
+12927392,12/19/2022 12:45,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,15,2022
+12905113,11/26/2022 18:19,Battery,Domestic Battery Simple,Street,FALSE,TRUE,46,2022
+12892192,11/13/2022 23:00,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,16,2022
+12925377,12/16/2022 18:00,Robbery,Armed - Other Dangerous Weapon,Sidewalk,FALSE,FALSE,43,2022
+12903161,11/25/2022 11:45,Criminal Damage,To Property,Apartment,FALSE,FALSE,42,2022
+12912812,12/4/2022 6:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,25,2022
+12927431,12/19/2022 11:04,Deceptive Practice,Theft Of Lost / Mislaid Property,Sidewalk,FALSE,FALSE,16,2022
+12919107,12/10/2022 21:50,Criminal Damage,To Property,Residence,FALSE,FALSE,46,2022
+12930448,12/21/2022 18:00,Theft,Over $500,Street,FALSE,FALSE,16,2022
+12903696,11/26/2022 0:05,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,43,2022
+12894018,11/14/2022 10:00,Theft,From Building,Other (Specify),FALSE,FALSE,28,2022
+12934991,12/28/2022 14:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,61,2022
+12909752,11/30/2022 22:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,43,2022
+12910663,12/2/2022 10:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,25,2022
+12917399,12/8/2022 17:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,77,2022
+12892064,11/13/2022 14:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,40,2022
+12925047,12/2/2022 0:00,Other Offense,Harassment By Electronic Means,Medical / Dental Office,FALSE,FALSE,5,2022
+12933877,12/27/2022 8:27,Criminal Damage,To Property,Apartment,FALSE,FALSE,73,2022
+13000113,11/20/2022 9:00,Deceptive Practice,Fraud Or Confidence Game,Residence,FALSE,FALSE,71,2022
+12926352,12/17/2022 20:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,50,2022
+12907183,11/28/2022 8:30,Criminal Trespass,To Residence,Apartment,FALSE,FALSE,19,2022
+12926155,12/17/2022 6:00,Battery,Simple,Hospital Building / Grounds,FALSE,FALSE,27,2022
+12900979,11/23/2022 0:37,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,66,2022
+12903260,11/24/2022 23:30,Theft,$500 And Under,Driveway - Residential,FALSE,FALSE,28,2022
+12905510,11/27/2022 23:12,Weapons Violation,Unlawful Possession - Handgun,Alley,TRUE,FALSE,63,2022
+12919660,12/11/2022 17:30,Criminal Damage,To Property,Residence,FALSE,FALSE,61,2022
+12934797,12/28/2022 0:00,Other Offense,Harassment By Electronic Means,Residence,FALSE,FALSE,69,2022
+12897639,11/19/2022 13:15,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,8,2022
+12932021,12/24/2022 19:35,Criminal Damage,To Property,Gas Station,FALSE,FALSE,5,2022
+12918317,12/9/2022 22:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,31,2022
+12903320,11/22/2022 17:00,Robbery,Strong Arm - No Weapon,Cta Train,FALSE,FALSE,44,2022
+12909889,12/2/2022 1:40,Criminal Damage,To Vehicle,Street,FALSE,FALSE,43,2022
+12897580,11/19/2022 4:00,Battery,Aggravated - Other Dangerous Weapon,Apartment,FALSE,FALSE,25,2022
+12929215,12/17/2022 8:30,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,24,2022
+12919218,12/11/2022 0:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,23,2022
+12936141,12/29/2022 15:43,Theft,$500 And Under,Restaurant,TRUE,FALSE,32,2022
+12903210,11/25/2022 13:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,27,2022
+12907601,11/21/2022 21:44,Assault,Simple,Street,FALSE,TRUE,43,2022
+12899477,11/21/2022 12:50,Battery,Simple,College / University - Grounds,TRUE,FALSE,1,2022
+12924809,12/16/2022 9:08,Criminal Damage,To Property,Gas Station,TRUE,FALSE,67,2022
+12921948,12/13/2022 16:30,Assault,Simple,Residence,FALSE,FALSE,73,2022
+12921999,12/12/2022 19:30,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,69,2022
+12924509,12/16/2022 10:09,Other Offense,Gun Offender - Annual Registration,Vehicle Non-Commercial,TRUE,FALSE,43,2022
+12891256,11/13/2022 1:38,Criminal Damage,To Property,Small Retail Store,FALSE,FALSE,14,2022
+12894958,11/16/2022 19:20,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,51,2022
+12936114,12/29/2022 16:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,42,2022
+12910458,12/2/2022 15:00,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,18,2022
+12917513,12/9/2022 9:35,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,24,2022
+12897416,11/17/2022 0:00,Deceptive Practice,Credit Card Fraud,Street,FALSE,FALSE,69,2022
+12911635,12/2/2022 23:50,Battery,Simple,Sidewalk,FALSE,FALSE,8,2022
+12893600,11/15/2022 11:05,Battery,Simple,Apartment,FALSE,FALSE,66,2022
+12904531,11/26/2022 4:49,Criminal Trespass,To Vehicle,Street,FALSE,FALSE,11,2022
+12907784,11/30/2022 2:53,Criminal Damage,To Property,Apartment,FALSE,FALSE,25,2022
+12919065,12/10/2022 22:10,Offense Involving Children,Endangering Life / Health Of Child,Hospital Building / Grounds,FALSE,FALSE,15,2022
+12918359,12/9/2022 22:50,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12933546,12/26/2022 0:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,71,2022
+12914961,12/6/2022 14:00,Theft,$500 And Under,Street,FALSE,FALSE,36,2022
+12934570,12/27/2022 23:45,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,14,2022
+12920209,12/11/2022 9:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,6,2022
+12917797,12/1/2022 8:30,Other Offense,Other Crime Against Person,Apartment,FALSE,FALSE,46,2022
+12942079,12/19/2022 17:00,Criminal Damage,To Vehicle,Residence,FALSE,FALSE,19,2022
+12921125,12/3/2022 22:00,Criminal Sexual Assault,Non-Aggravated,Hotel / Motel,FALSE,FALSE,77,2022
+12913221,12/5/2022 6:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,35,2022
+12915523,12/7/2022 17:00,Deceptive Practice,Illegal Use Cash Card,Street,FALSE,FALSE,14,2022
+27241,12/11/2022 2:48,Homicide,First Degree Murder,Street,TRUE,FALSE,15,2022
+12932818,12/26/2022 4:53,Criminal Damage,Criminal Defacement,Cta Parking Lot / Garage / Other Property,FALSE,FALSE,14,2022
+12928700,12/20/2022 17:00,Assault,Simple,Apartment,FALSE,FALSE,77,2022
+12935912,12/29/2022 8:35,Theft,Retail Theft,Tavern / Liquor Store,FALSE,FALSE,6,2022
+12906699,11/29/2022 4:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,51,2022
+12923263,12/13/2022 20:00,Burglary,Unlawful Entry,Apartment,FALSE,FALSE,8,2022
+12903967,11/26/2022 8:15,Burglary,Forcible Entry,Residence - Garage,FALSE,FALSE,6,2022
+12914335,12/6/2022 17:20,Theft,Over $500,Street,FALSE,FALSE,71,2022
+12919930,12/11/2022 17:00,Criminal Damage,To Property,Apartment,FALSE,TRUE,43,2022
+12910459,12/2/2022 17:19,Other Offense,Vehicle Title / Registration Offense,Street,TRUE,FALSE,23,2022
+12913599,12/5/2022 0:00,Other Offense,Violation Gps Monitoring Device,Residence,FALSE,FALSE,44,2022
+12936681,12/30/2022 8:00,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,28,2022
+12932802,12/26/2022 4:13,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,15,2022
+12925199,12/16/2022 17:15,Motor Vehicle Theft,Theft / Recovery - Automobile,Alley,FALSE,FALSE,30,2022
+12920393,12/5/2022 23:59,Offense Involving Children,Other Offense,Residence,FALSE,FALSE,10,2022
+12916380,12/6/2022 18:51,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,14,2022
+12908050,11/29/2022 17:00,Criminal Damage,To Vehicle,Street,FALSE,TRUE,45,2022
+12897086,11/18/2022 18:47,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,29,2022
+12951143,12/20/2022 8:30,Deceptive Practice,Credit Card Fraud,Small Retail Store,FALSE,FALSE,24,2022
+12920260,12/9/2022 9:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,66,2022
+12919002,12/10/2022 23:10,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,29,2022
+12916920,12/8/2022 13:00,Burglary,Forcible Entry,Apartment,FALSE,FALSE,68,2022
+12917343,12/8/2022 18:00,Theft,Pocket-Picking,Hotel / Motel,FALSE,FALSE,8,2022
+12916066,12/7/2022 22:00,Criminal Damage,To Property,Residence,FALSE,FALSE,71,2022
+12913781,12/2/2022 11:30,Assault,Simple,Small Retail Store,FALSE,FALSE,41,2022
+12904774,11/26/2022 23:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12912027,11/26/2022 22:45,Robbery,Strong Arm - No Weapon,Sidewalk,FALSE,FALSE,22,2022
+12931421,12/23/2022 10:10,Theft,Over $500,Convenience Store,FALSE,FALSE,77,2022
+12911622,12/3/2022 21:15,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,60,2022
+12922243,12/13/2022 23:00,Criminal Damage,To Property,Apartment,FALSE,TRUE,29,2022
+12910859,12/2/2022 22:40,Criminal Trespass,To Land,Apartment,FALSE,FALSE,44,2022
+12901620,11/22/2022 1:00,Burglary,Forcible Entry,Residence - Garage,FALSE,FALSE,66,2022
+12906365,11/27/2022 19:28,Theft,Over $500,Vehicle Non-Commercial,FALSE,FALSE,43,2022
+12912310,12/4/2022 10:12,Weapons Violation,Unlawful Possession - Handgun,Street,FALSE,FALSE,49,2022
+12935327,12/24/2022 18:00,Theft,$500 And Under,Street,FALSE,FALSE,28,2022
+12918633,12/10/2022 12:00,Theft,Over $500,Street,FALSE,FALSE,44,2022
+12914981,12/5/2022 19:00,Criminal Damage,To Vehicle,Driveway - Residential,FALSE,FALSE,75,2022
+12934398,12/27/2022 18:40,Weapons Violation,Unlawful Possession - Handgun,Sidewalk,FALSE,FALSE,42,2022
+12937389,12/30/2022 21:19,Criminal Damage,To City Of Chicago Property,Convenience Store,FALSE,FALSE,19,2022
+12906564,11/19/2022 7:00,Offense Involving Children,Child Abuse,Apartment,FALSE,FALSE,44,2022
+12935534,12/28/2022 0:47,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,68,2022
+12930908,12/22/2022 17:16,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,39,2022
+12929107,12/15/2022 15:03,Battery,Simple,School - Public Building,FALSE,FALSE,44,2022
+12919386,12/11/2022 9:20,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,47,2022
+12907543,11/26/2022 12:00,Theft,$500 And Under,Residence,FALSE,FALSE,7,2022
+12984225,12/25/2022 7:00,Deceptive Practice,Attempt - Financial Identity Theft,Apartment,FALSE,FALSE,6,2022
+12928248,12/19/2022 12:30,Theft,$500 And Under,Apartment,FALSE,FALSE,43,2022
+12921291,12/12/2022 4:51,Motor Vehicle Theft,Automobile,Street,TRUE,FALSE,29,2022
+12910839,12/3/2022 0:45,Criminal Damage,To Vehicle,Street,TRUE,FALSE,32,2022
+12938424,12/29/2022 12:22,Assault,Simple,Restaurant,FALSE,FALSE,15,2022
+12932147,12/24/2022 22:05,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,17,2022
+12938070,12/27/2022 16:03,Deceptive Practice,Illegal Use Cash Card,Apartment,FALSE,FALSE,24,2022
+12931443,12/23/2022 11:10,Battery,Simple,Restaurant,TRUE,FALSE,32,2022
+12897880,11/19/2022 18:30,Motor Vehicle Theft,Attempt - Automobile,Movie House / Theater,FALSE,FALSE,44,2022
+12928688,12/20/2022 17:25,Narcotics,Manufacture / Deliver - Crack,Parking Lot / Garage (Non Residential),TRUE,FALSE,26,2022
+12903754,11/25/2022 20:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,48,2022
+12919164,12/11/2022 1:30,Battery,Aggravated Of A Senior Citizen,Street,FALSE,FALSE,8,2022
+12930542,12/22/2022 11:00,Theft,Delivery Container Theft,Vacant Lot / Land,FALSE,FALSE,71,2022
+12925846,12/17/2022 6:30,Other Offense,Harassment By Telephone,Residence,FALSE,TRUE,42,2022
+12912150,12/2/2022 17:30,Burglary,Forcible Entry,Apartment,FALSE,FALSE,25,2022
+12899090,11/21/2022 3:25,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,32,2022
+12899614,11/21/2022 2:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,20,2022
+12909652,12/1/2022 20:21,Criminal Trespass,To Residence,Apartment,TRUE,FALSE,2,2022
+12902612,11/24/2022 19:00,Assault,Simple,Apartment,FALSE,TRUE,61,2022
+12906553,11/20/2022 5:00,Theft,Over $500,Airport Terminal Upper Level - Secure Area,FALSE,FALSE,76,2022
+12994571,12/1/2022 0:00,Other Offense,Telephone Threat,Residence,FALSE,FALSE,63,2022
+12927915,12/13/2022 10:00,Deceptive Practice,Credit Card Fraud,Apartment,FALSE,FALSE,14,2022
+12929655,12/21/2022 13:53,Battery,Aggravated - Other Dangerous Weapon,Sidewalk,FALSE,FALSE,23,2022
+12905366,11/27/2022 19:00,Assault,Simple,Apartment,FALSE,TRUE,31,2022
+12938240,12/27/2022 15:00,Burglary,Forcible Entry,Residence,FALSE,FALSE,6,2022
+12897775,11/19/2022 15:15,Assault,Simple,Restaurant,FALSE,FALSE,32,2022
+12925808,12/17/2022 16:45,Motor Vehicle Theft,Automobile,Residence - Yard (Front / Back),FALSE,FALSE,68,2022
+12933452,12/26/2022 20:42,Criminal Damage,To Vehicle,Street,FALSE,TRUE,45,2022
+12896124,11/14/2022 8:30,Assault,Simple,Residence,FALSE,FALSE,49,2022
+12896615,11/18/2022 11:36,Battery,Simple,Grocery Food Store,FALSE,FALSE,44,2022
+12936832,12/15/2022 9:00,Other Offense,Violate Order Of Protection,Residence,FALSE,TRUE,19,2022
+12914997,12/7/2022 0:00,Theft,Retail Theft,Grocery Food Store,FALSE,FALSE,29,2022
+12893030,11/13/2022 10:30,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,32,2022
+12930046,12/21/2022 23:05,Criminal Damage,To Property,Apartment,FALSE,FALSE,26,2022
+12937807,12/27/2022 0:00,Theft,$500 And Under,Drug Store,FALSE,FALSE,2,2022
+12919341,12/10/2022 15:45,Theft,Over $500,Street,FALSE,FALSE,14,2022
+27267,12/23/2022 21:04,Homicide,First Degree Murder,Yard,TRUE,FALSE,14,2022
+12912770,12/5/2022 5:30,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,22,2022
+12934775,12/28/2022 0:30,Battery,Domestic Battery Simple,Cha Apartment,FALSE,TRUE,54,2022
+12900943,11/22/2022 23:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,26,2022
+12912756,12/4/2022 0:15,Battery,Simple,Bar Or Tavern,FALSE,FALSE,15,2022
+12894560,11/16/2022 12:20,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,61,2022
+12908821,11/30/2022 22:15,Criminal Damage,To Vehicle,Driveway - Residential,FALSE,FALSE,58,2022
+12931117,12/21/2022 15:45,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,22,2022
+12899007,11/20/2022 23:50,Theft,Over $500,Sidewalk,FALSE,FALSE,25,2022
+12932758,12/26/2022 0:20,Battery,Simple,Apartment,FALSE,FALSE,73,2022
+12935641,12/29/2022 9:20,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,54,2022
+12905108,11/27/2022 13:38,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,49,2022
+12936660,12/27/2022 20:00,Theft,$500 And Under,Residence,FALSE,FALSE,67,2022
+12929278,12/21/2022 0:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,69,2022
+12929419,12/21/2022 11:49,Narcotics,Found Suspect Narcotics,Street,TRUE,FALSE,38,2022
+12913619,12/4/2022 17:10,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,69,2022
+12900958,11/22/2022 12:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Alley,FALSE,FALSE,38,2022
+12922775,12/13/2022 15:30,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,44,2022
+12917625,11/21/2022 12:00,Deceptive Practice,Bogus Check,Currency Exchange,FALSE,FALSE,71,2022
+12935093,12/28/2022 14:49,Theft,Retail Theft,Grocery Food Store,TRUE,FALSE,22,2022
+12911310,12/3/2022 2:00,Burglary,Forcible Entry,Restaurant,FALSE,FALSE,49,2022
+12945938,12/25/2022 15:00,Deceptive Practice,Credit Card Fraud,Apartment,FALSE,FALSE,32,2022
+12930809,12/22/2022 17:30,Assault,Simple,Alley,FALSE,FALSE,23,2022
+12934731,12/27/2022 21:00,Theft,$500 And Under,Street,FALSE,FALSE,40,2022
+12937047,12/30/2022 13:20,Assault,Simple,Apartment,FALSE,FALSE,54,2022
+12911225,12/3/2022 14:20,Deceptive Practice,Credit Card Fraud,Hotel / Motel,FALSE,FALSE,32,2022
+12921573,12/12/2022 22:00,Burglary,Unlawful Entry,Restaurant,FALSE,FALSE,73,2022
+12895974,11/17/2022 16:05,Theft,Retail Theft,Drug Store,FALSE,FALSE,16,2022
+12929856,12/20/2022 18:00,Assault,Simple,Street,FALSE,FALSE,61,2022
+12908753,11/30/2022 21:15,Motor Vehicle Theft,Automobile,Residence,FALSE,FALSE,75,2022
+12909271,12/1/2022 12:25,Theft,Over $500,Sidewalk,FALSE,FALSE,43,2022
+12930851,12/22/2022 11:09,Theft,Retail Theft,Drug Store,FALSE,FALSE,8,2022
+12921897,12/13/2022 15:46,Assault,Aggravated - Handgun,Street,FALSE,FALSE,49,2022
+12914554,12/6/2022 16:10,Theft,$500 And Under,Grocery Food Store,FALSE,FALSE,33,2022
+12918744,12/10/2022 11:30,Stalking,Simple,Residence,FALSE,FALSE,18,2022
+12938568,12/30/2022 20:30,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,25,2022
+12898521,11/20/2022 13:36,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,29,2022
+12922698,12/14/2022 10:30,Assault,Simple,Street,FALSE,FALSE,43,2022
+12923707,12/14/2022 22:30,Criminal Damage,To Property,Residence,FALSE,TRUE,71,2022
+12916767,12/8/2022 14:55,Criminal Damage,To Property,Apartment,FALSE,TRUE,35,2022
+12907645,11/29/2022 20:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,69,2022
+12919545,12/11/2022 3:20,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,4,2022
+12912720,12/3/2022 18:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,30,2022
+12913888,12/6/2022 9:30,Narcotics,Manufacture / Deliver -  Heroin (White),Sidewalk,TRUE,FALSE,23,2022
+12941302,12/28/2022 21:02,Theft,Retail Theft,Drug Store,FALSE,FALSE,77,2022
+12917522,12/9/2022 0:00,Burglary,Forcible Entry,Restaurant,FALSE,FALSE,44,2022
+12937005,12/30/2022 15:22,Other Offense,Sex Offender - Fail To Register,Street,TRUE,FALSE,26,2022
+12900959,11/22/2022 23:24,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,8,2022
+12933726,12/27/2022 9:00,Theft,Over $500,Street,FALSE,FALSE,28,2022
+12927206,12/19/2022 9:00,Theft,Over $500,School - Private Grounds,FALSE,FALSE,26,2022
+12937267,12/30/2022 19:20,Battery,Simple,Apartment,FALSE,FALSE,15,2022
+12902749,11/25/2022 0:24,Criminal Damage,To Vehicle,Street,FALSE,FALSE,51,2022
+12904658,11/27/2022 1:13,Criminal Damage,To Vehicle,Street,FALSE,FALSE,43,2022
+12892656,11/14/2022 12:40,Assault,Aggravated - Knife / Cutting Instrument,Cta Bus,TRUE,FALSE,32,2022
+12899176,11/19/2022 10:45,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,44,2022
+12937054,12/30/2022 15:00,Motor Vehicle Theft,Attempt - Automobile,Apartment,FALSE,FALSE,26,2022
+12898247,11/20/2022 2:57,Battery,Simple,Apartment,FALSE,FALSE,49,2022
+12930165,12/22/2022 3:28,Robbery,Aggravated Vehicular Hijacking,Street,FALSE,FALSE,73,2022
+12904368,11/26/2022 14:10,Theft,Over $500,Street,FALSE,FALSE,8,2022
+12911640,12/3/2022 21:15,Criminal Sexual Assault,Attempt Non-Aggravated,Apartment,FALSE,TRUE,19,2022
+12925160,12/16/2022 18:10,Assault,Aggravated - Knife / Cutting Instrument,Sidewalk,FALSE,FALSE,41,2022
+12950417,12/11/2022 10:00,Criminal Damage,To Vehicle,Vehicle Non-Commercial,FALSE,FALSE,58,2022
+12935422,12/28/2022 20:49,Other Offense,False / Stolen / Altered Trp,Street,TRUE,FALSE,19,2022
+12934958,12/22/2022 12:50,Assault,Simple,Other (Specify),FALSE,FALSE,25,2022
+12916792,12/2/2022 21:49,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,22,2022
+12910060,12/2/2022 8:10,Motor Vehicle Theft,Attempt - Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,43,2022
+12931256,12/23/2022 2:30,Burglary,Unlawful Entry,Tavern / Liquor Store,FALSE,FALSE,1,2022
+12901438,11/23/2022 9:30,Criminal Damage,To Property,Residence - Yard (Front / Back),FALSE,FALSE,27,2022
+12915949,12/8/2022 4:24,Robbery,Armed - Handgun,Small Retail Store,FALSE,FALSE,35,2022
+12924594,12/16/2022 4:30,Criminal Damage,To Vehicle,Street,FALSE,FALSE,11,2022
+12912872,12/4/2022 19:00,Theft,Over $500,Street,FALSE,FALSE,1,2022
+12937533,12/27/2022 0:00,Theft,From Building,Restaurant,FALSE,FALSE,32,2022
+12907552,11/26/2022 23:43,Liquor Law Violation,Liquor License Violation,Commercial / Business Office,TRUE,FALSE,38,2022
+12927675,12/19/2022 15:15,Assault,Simple,School - Public Grounds,FALSE,FALSE,48,2022
+12930406,12/21/2022 19:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,2,2022
+12895260,11/13/2022 22:00,Sex Offense,Criminal Sexual Abuse,Athletic Club,FALSE,FALSE,62,2022
+12916593,12/8/2022 15:30,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,44,2022
+12911489,12/2/2022 6:45,Theft,Over $500,Hospital Building / Grounds,FALSE,FALSE,28,2022
+12926563,12/17/2022 19:30,Theft,Over $500,Street,FALSE,FALSE,14,2022
+12939578,12/19/2022 0:01,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,43,2022
+12905328,11/17/2022 15:30,Theft,Retail Theft,Department Store,FALSE,FALSE,17,2022
+12894386,11/15/2022 14:23,Criminal Trespass,To Land,Residence - Yard (Front / Back),FALSE,FALSE,16,2022
+12901709,11/23/2022 15:32,Theft,Retail Theft,Tavern / Liquor Store,FALSE,FALSE,69,2022
+12893767,11/14/2022 22:00,Theft,$500 And Under,Parking Lot / Garage (Non Residential),FALSE,FALSE,11,2022
+12917956,12/7/2022 23:52,Battery,Domestic Battery Simple,Street,FALSE,TRUE,23,2022
+12926795,12/17/2022 19:00,Theft,$500 And Under,Residence,FALSE,FALSE,60,2022
+13018297,12/12/2022 22:00,Theft,$500 And Under,Apartment,FALSE,FALSE,14,2022
+12904278,11/26/2022 16:15,Assault,Simple,Apartment,FALSE,TRUE,6,2022
+12927970,12/5/2022 18:30,Theft,Over $500,Residence,FALSE,FALSE,18,2022
+12918203,12/10/2022 5:22,Battery,Aggravated Domestic Battery - Other Dangerous Weapon,Apartment,FALSE,TRUE,25,2022
+12899184,11/20/2022 6:00,Theft,Over $500,Street,FALSE,FALSE,60,2022
+12909762,12/1/2022 18:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,53,2022
+12937286,12/30/2022 17:48,Assault,Aggravated - Handgun,Street,TRUE,FALSE,44,2022
+12916925,12/8/2022 21:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12936374,12/29/2022 19:17,Battery,Aggravated - Knife / Cutting Instrument,Department Store,FALSE,FALSE,28,2022
+12943013,12/6/2022 9:00,Deceptive Practice,Financial Identity Theft $300 And Under,Apartment,FALSE,FALSE,2,2022
+12937139,12/30/2022 18:46,Battery,Simple,Apartment,FALSE,FALSE,68,2022
+12929136,12/21/2022 5:05,Assault,Simple,Gas Station,FALSE,FALSE,43,2022
+12903422,11/25/2022 18:08,Robbery,Armed - Handgun,Small Retail Store,FALSE,FALSE,73,2022
+12906724,11/28/2022 7:40,Criminal Damage,To Property,Apartment,FALSE,TRUE,69,2022
+12918491,12/8/2022 16:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Cha Parking Lot / Grounds,FALSE,FALSE,28,2022
+12901698,11/23/2022 12:00,Theft,$500 And Under,Residence,FALSE,FALSE,29,2022
+12894220,11/16/2022 0:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,16,2022
+12932385,12/1/2022 7:00,Other Offense,Telephone Threat,Residence,FALSE,TRUE,63,2022
+12913646,12/5/2022 22:10,Battery,Aggravated - Handgun,Sidewalk,FALSE,FALSE,44,2022
+12933202,12/26/2022 11:15,Deceptive Practice,Credit Card Fraud,Department Store,FALSE,FALSE,1,2022
+12906956,11/29/2022 10:30,Other Offense,Violate Order Of Protection,Apartment,TRUE,TRUE,23,2022
+12931182,12/1/2022 0:00,Theft,$500 And Under,Street,FALSE,FALSE,1,2022
+12909075,11/28/2022 10:00,Deceptive Practice,Bogus Check,Residence,FALSE,FALSE,20,2022
+12935084,12/27/2022 12:00,Battery,Aggravated - Other Dangerous Weapon,Residence,FALSE,FALSE,66,2022
+12908986,11/30/2022 9:00,Motor Vehicle Theft,Automobile,Vacant Lot / Land,FALSE,FALSE,28,2022
+12899132,11/20/2022 3:00,Criminal Trespass,To Residence,Apartment,FALSE,TRUE,51,2022
+12894150,11/15/2022 19:17,Motor Vehicle Theft,Attempt - Automobile,Residence,FALSE,FALSE,70,2022
+12933022,12/25/2022 20:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Street,FALSE,FALSE,19,2022
+12898304,11/19/2022 23:00,Burglary,Forcible Entry,Apartment,FALSE,FALSE,2,2022
+12915882,12/8/2022 0:09,Weapons Violation,Unlawful Use - Other Firearm,Residence - Yard (Front / Back),FALSE,FALSE,51,2022
+12912816,12/3/2022 20:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,29,2022
+12925734,12/16/2022 16:00,Motor Vehicle Theft,Automobile,Street,TRUE,FALSE,77,2022
+12907844,11/30/2022 5:00,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,26,2022
+12925891,12/16/2022 22:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,32,2022
+12938033,12/30/2022 20:00,Assault,Simple,Apartment,FALSE,TRUE,2,2022
+12904330,11/26/2022 17:21,Assault,Simple,Apartment,FALSE,FALSE,68,2022
+12903699,11/25/2022 11:45,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,74,2022
+12921153,12/12/2022 22:36,Battery,Domestic Battery Simple,Residence,TRUE,TRUE,15,2022
+12922070,12/7/2022 14:01,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,63,2022
+12895781,11/15/2022 14:00,Theft,Over $500,Apartment,FALSE,FALSE,77,2022
+12926441,12/16/2022 21:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,23,2022
+12925462,11/26/2022 3:00,Theft,Over $500,Residence - Yard (Front / Back),FALSE,FALSE,53,2022
+12913994,12/6/2022 6:30,Robbery,Armed - Handgun,Alley,FALSE,FALSE,23,2022
+12924848,12/16/2022 9:30,Robbery,Armed - Handgun,Convenience Store,TRUE,FALSE,28,2022
+12910449,12/1/2022 13:30,Deceptive Practice,Attempt - Financial Identity Theft,Residence,FALSE,FALSE,50,2022
+12910346,12/2/2022 15:30,Battery,Aggravated - Other Dangerous Weapon,Sidewalk,FALSE,FALSE,69,2022
+12905732,11/23/2022 18:45,Assault,Aggravated - Handgun,Highway / Expressway,FALSE,FALSE,27,2022
+12935494,12/29/2022 2:25,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,46,2022
+12947988,12/23/2022 0:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,54,2022
+12895295,11/17/2022 5:30,Battery,Aggravated - Other Dangerous Weapon,Cta Platform,FALSE,FALSE,3,2022
+12924234,12/15/2022 18:30,Criminal Damage,To Vehicle,Street,FALSE,FALSE,25,2022
+12924820,12/16/2022 15:30,Theft,$500 And Under,Grocery Food Store,FALSE,FALSE,43,2022
+12903533,11/25/2022 22:46,Weapons Violation,Reckless Firearm Discharge,Street,FALSE,FALSE,57,2022
+12905859,11/25/2022 15:00,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,68,2022
+12936162,12/23/2022 12:00,Deceptive Practice,Deceptive Collection Practices,Residence,FALSE,FALSE,25,2022
+12906360,11/14/2022 15:00,Theft,From Building,Apartment,FALSE,FALSE,29,2022
+12913820,12/6/2022 9:00,Theft,$500 And Under,Residence,FALSE,FALSE,14,2022
+12899952,11/21/2022 20:24,Narcotics,Manufacture / Deliver - Cannabis Over 10 Grams,Street,TRUE,FALSE,71,2022
+12907121,11/18/2022 12:00,Deceptive Practice,Bogus Check,Residence,FALSE,FALSE,65,2022
+12929445,12/16/2022 21:00,Assault,Simple,Other (Specify),FALSE,FALSE,28,2022
+12921531,12/10/2022 12:56,Deceptive Practice,Financial Identity Theft Over $ 300,Small Retail Store,FALSE,FALSE,57,2022
+12922202,12/13/2022 21:17,Other Offense,Parole Violation,Street,FALSE,FALSE,46,2022
+12907005,11/28/2022 13:15,Deceptive Practice,Credit Card Fraud,Grocery Food Store,FALSE,FALSE,8,2022
+12905488,11/27/2022 23:14,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,75,2022
+12894338,11/15/2022 18:00,Criminal Damage,To Property,Commercial / Business Office,FALSE,FALSE,30,2022
+12919156,12/11/2022 3:17,Assault,Aggravated - Handgun,Apartment,FALSE,TRUE,68,2022
+12936337,12/29/2022 15:35,Assault,Aggravated - Handgun,Parking Lot / Garage (Non Residential),FALSE,FALSE,35,2022
+12896668,11/18/2022 9:00,Theft,$500 And Under,Residence,FALSE,FALSE,49,2022
+12902941,11/19/2022 0:01,Deceptive Practice,Fraud Or Confidence Game,Residence,FALSE,FALSE,15,2022
+12904122,11/26/2022 14:23,Other Offense,False / Stolen / Altered Trp,Street,FALSE,FALSE,69,2022
+12897527,11/19/2022 0:00,Criminal Damage,To Vehicle,Airport Parking Lot,FALSE,FALSE,56,2022
+12914581,12/6/2022 8:00,Other Offense,Harassment By Electronic Means,Apartment,FALSE,FALSE,4,2022
+12929741,12/20/2022 22:09,Theft,Over $500,Street,FALSE,FALSE,43,2022
+12931559,12/23/2022 11:31,Battery,Aggravated Domestic Battery - Other Dangerous Weapon,Apartment,TRUE,TRUE,43,2022
+12944134,12/10/2022 13:30,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,71,2022
+12896460,11/18/2022 11:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,39,2022
+12923396,12/14/2022 12:29,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),TRUE,FALSE,42,2022
+12905654,11/24/2022 14:00,Theft,Over $500,Construction Site,FALSE,FALSE,51,2022
+12912422,12/3/2022 14:25,Theft,Retail Theft,Department Store,FALSE,FALSE,6,2022
+12930648,12/22/2022 13:15,Motor Vehicle Theft,Automobile,Apartment,FALSE,FALSE,44,2022
+12933142,12/26/2022 12:20,Assault,Simple,Other (Specify),FALSE,FALSE,74,2022
+12925945,12/13/2022 23:45,Burglary,Forcible Entry,Residence - Garage,FALSE,FALSE,31,2022
+12904505,11/26/2022 19:30,Robbery,Armed - Handgun,Alley,FALSE,FALSE,3,2022
+12915779,12/7/2022 18:45,Battery,Simple,Apartment,FALSE,FALSE,1,2022
+12905363,11/27/2022 14:19,Assault,"Protected Employee - Hands, Fists, Feet, No / Minor Injury",Cta Platform,FALSE,FALSE,14,2022
+12894926,11/14/2022 14:35,Criminal Damage,To Property,Residence,FALSE,FALSE,43,2022
+12895092,11/16/2022 17:10,Criminal Damage,To Property,Residence,FALSE,FALSE,35,2022
+12916960,12/8/2022 21:00,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,66,2022
+12933115,12/22/2022 20:00,Burglary,Forcible Entry,Apartment,FALSE,FALSE,21,2022
+12921312,12/13/2022 4:19,Criminal Trespass,To State Sup Land,Residence,TRUE,FALSE,34,2022
+12926131,12/17/2022 23:00,Robbery,Armed - Handgun,Street,FALSE,FALSE,25,2022
+12938555,12/30/2022 0:00,Theft,$500 And Under,Cha Parking Lot / Grounds,FALSE,FALSE,38,2022
+12942923,12/29/2022 13:15,Other Offense,License Violation,Parking Lot / Garage (Non Residential),TRUE,FALSE,51,2022
+12904150,11/25/2022 21:30,Other Offense,Violation Of Civil No Contact Order,Apartment,FALSE,TRUE,22,2022
+12906732,11/21/2022 15:00,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,67,2022
+12906106,11/28/2022 12:00,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,15,2022
+12921835,12/8/2022 17:58,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,71,2022
+12990565,12/16/2022 20:09,Deceptive Practice,Fraud Or Confidence Game,Restaurant,FALSE,FALSE,28,2022
+12931175,12/23/2022 9:40,Battery,Simple,Barbershop,FALSE,FALSE,14,2022
+12936851,12/30/2022 8:30,Criminal Damage,To Property,Church / Synagogue / Place Of Worship,TRUE,FALSE,31,2022
+12934030,12/23/2022 14:52,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,36,2022
+12964853,11/16/2022 0:01,Other Offense,Harassment By Electronic Means,Apartment,FALSE,TRUE,43,2022
+12913909,11/23/2022 19:02,Battery,Simple,Parking Lot / Garage (Non Residential),FALSE,FALSE,35,2022
+12894807,11/16/2022 15:20,Theft,$500 And Under,Residence,TRUE,FALSE,56,2022
+12918346,12/9/2022 20:30,Assault,Simple,Apartment,FALSE,FALSE,69,2022
+12924680,12/16/2022 13:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,66,2022
+12914836,12/6/2022 16:30,Motor Vehicle Theft,Automobile,Driveway - Residential,FALSE,FALSE,17,2022
+12899501,11/13/2022 9:00,Burglary,Unlawful Entry,Residence,FALSE,FALSE,60,2022
+12920119,12/12/2022 2:25,Criminal Damage,To Property,Residence,FALSE,TRUE,67,2022
+12901189,11/22/2022 17:00,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,2,2022
+12924616,12/16/2022 8:00,Theft,Over $500,Street,FALSE,FALSE,24,2022
+12893694,11/15/2022 13:30,Battery,Simple,Parking Lot / Garage (Non Residential),FALSE,FALSE,61,2022
+12913607,12/5/2022 21:31,Weapons Violation,Reckless Firearm Discharge,Apartment,FALSE,FALSE,2,2022
+12936939,12/30/2022 12:27,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,58,2022
+12908569,11/20/2022 19:45,Theft,Over $500,Residence - Yard (Front / Back),FALSE,FALSE,6,2022
+12922789,12/11/2022 9:00,Deceptive Practice,Financial Identity Theft Over $ 300,Commercial / Business Office,FALSE,TRUE,43,2022
+12917938,12/9/2022 18:55,Robbery,Strong Arm - No Weapon,Sidewalk,FALSE,FALSE,3,2022
+12923728,12/15/2022 12:00,Theft,$500 And Under,Parking Lot / Garage (Non Residential),FALSE,FALSE,57,2022
+12921139,12/12/2022 22:00,Narcotics,Found Suspect Narcotics,Residence,FALSE,FALSE,15,2022
+12900152,11/22/2022 7:10,Criminal Damage,To Vehicle,Street,FALSE,FALSE,19,2022
+12894586,11/16/2022 0:01,Theft,Over $500,Street,FALSE,FALSE,30,2022
+12935299,12/28/2022 1:30,Assault,Simple,Apartment,FALSE,TRUE,26,2022
+12927845,11/14/2022 10:10,Deceptive Practice,Financial Identity Theft Over $ 300,Nan,FALSE,FALSE,32,2022
+12915869,12/8/2022 2:15,Weapons Violation,Reckless Firearm Discharge,Alley,FALSE,FALSE,71,2022
+12897967,11/19/2022 15:31,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,39,2022
+12901058,11/23/2022 0:01,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,49,2022
+12893116,11/14/2022 20:40,Theft,From Building,Street,FALSE,FALSE,69,2022
+12946102,12/1/2022 9:49,Other Offense,Telephone Threat,Government Building / Property,FALSE,FALSE,37,2022
+12904252,11/26/2022 16:11,Theft,Retail Theft,Small Retail Store,TRUE,FALSE,32,2022
+12909538,12/1/2022 18:09,Robbery,Aggravated Vehicular Hijacking,Street,FALSE,FALSE,52,2022
+12932698,12/25/2022 19:03,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,71,2022
+12915305,12/2/2022 13:20,Assault,Simple,Factory / Manufacturing Building,FALSE,FALSE,25,2022
+12896385,11/18/2022 7:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,7,2022
+12923409,12/14/2022 8:56,Assault,Simple,Apartment,FALSE,TRUE,67,2022
+12893197,11/14/2022 22:48,Criminal Damage,To Property,Apartment,FALSE,FALSE,25,2022
+12895789,11/17/2022 12:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,69,2022
+12912001,12/4/2022 0:35,Criminal Damage,To Vehicle,Street,FALSE,FALSE,52,2022
+12922880,12/14/2022 15:32,Battery,Aggravated - Other Dangerous Weapon,Gas Station,TRUE,FALSE,70,2022
+12905606,11/28/2022 5:15,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,30,2022
+12920244,12/12/2022 8:00,Assault,Simple,Apartment,FALSE,FALSE,25,2022
+12928271,12/10/2022 11:10,Theft,$500 And Under,Apartment,FALSE,FALSE,27,2022
+12905916,11/28/2022 11:08,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,1,2022
+12935015,12/27/2022 14:00,Theft,Over $500,Residence,FALSE,FALSE,31,2022
+12930934,12/22/2022 18:00,Criminal Damage,To Vehicle,Street,FALSE,TRUE,15,2022
+12900022,11/22/2022 3:10,Criminal Damage,To Vehicle,Street,FALSE,FALSE,48,2022
+12895427,11/16/2022 12:40,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,65,2022
+12897365,11/18/2022 17:00,Theft,$500 And Under,Street,FALSE,FALSE,21,2022
+12918463,12/8/2022 8:00,Theft,Over $500,Street,FALSE,FALSE,8,2022
+12910669,12/2/2022 17:03,Criminal Damage,To Vehicle,Street,FALSE,TRUE,69,2022
+12904251,11/26/2022 16:37,Assault,Simple,Small Retail Store,FALSE,FALSE,48,2022
+12900881,11/22/2022 22:55,Narcotics,Found Suspect Narcotics,Residence,TRUE,FALSE,64,2022
+12920420,12/10/2022 15:00,Burglary,Forcible Entry,School - Public Building,FALSE,FALSE,68,2022
+12906586,11/28/2022 20:00,Assault,Aggravated - Handgun,Sidewalk,FALSE,FALSE,49,2022
+12936856,12/30/2022 8:20,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,19,2022
+12928330,12/18/2022 14:00,Motor Vehicle Theft,Automobile,Apartment,FALSE,FALSE,1,2022
+12897058,11/18/2022 19:17,Battery,Simple,Residence,FALSE,FALSE,1,2022
+12913894,12/4/2022 17:00,Theft,Over $500,Street,FALSE,FALSE,4,2022
+12918912,12/10/2022 20:46,Deceptive Practice,Theft Of Labor / Services,Cta Platform,FALSE,FALSE,32,2022
+12986411,12/24/2022 0:01,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,51,2022
+12909324,11/14/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,46,2022
+12910180,12/2/2022 7:48,Assault,Simple,Street,FALSE,FALSE,28,2022
+12902005,11/23/2022 4:28,Burglary,Forcible Entry,Small Retail Store,FALSE,FALSE,25,2022
+12966918,12/27/2022 0:01,Deceptive Practice,Illegal Use Cash Card,Residence,FALSE,FALSE,10,2022
+12942114,12/24/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,32,2022
+12897038,11/17/2022 20:00,Other Offense,Harassment By Telephone,Residence,FALSE,FALSE,60,2022
+12935212,12/28/2022 18:42,Theft,From Building,Residence,FALSE,FALSE,26,2022
+12932012,12/24/2022 18:36,Weapons Violation,Unlawful Use - Other Firearm,Alley,FALSE,FALSE,46,2022
+12906587,11/28/2022 0:01,Battery,Simple,Street,FALSE,FALSE,43,2022
+12899466,11/20/2022 12:00,Deceptive Practice,Fraud Or Confidence Game,Parking Lot / Garage (Non Residential),FALSE,FALSE,21,2022
+12931731,12/24/2022 5:35,Arson,By Fire,Apartment,FALSE,FALSE,6,2022
+12918144,12/10/2022 2:30,Robbery,Armed - Handgun,Street,FALSE,FALSE,24,2022
+12910008,12/2/2022 6:55,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,30,2022
+12915235,12/6/2022 10:00,Theft,$500 And Under,Street,FALSE,FALSE,4,2022
+12896845,11/17/2022 15:00,Battery,Simple,Street,FALSE,FALSE,63,2022
+12921844,12/13/2022 13:10,Criminal Damage,To Vehicle,Street,FALSE,FALSE,30,2022
+12909832,11/29/2022 4:00,Criminal Damage,To Property,Parking Lot / Garage (Non Residential),FALSE,FALSE,8,2022
+12900440,11/22/2022 13:40,Motor Vehicle Theft,Automobile,Vacant Lot / Land,FALSE,FALSE,6,2022
+12903756,11/26/2022 4:30,Criminal Damage,To Vehicle,Street,FALSE,FALSE,36,2022
+12923323,12/15/2022 1:26,Theft,$500 And Under,Cta Train,FALSE,FALSE,67,2022
+12927986,12/19/2022 18:46,Theft,Over $500,Residence,FALSE,TRUE,66,2022
+12921196,12/12/2022 21:37,Battery,Simple,Airport Exterior - Non-Secure Area,FALSE,FALSE,76,2022
+12908401,11/30/2022 16:30,Motor Vehicle Theft,Automobile,Restaurant,FALSE,FALSE,13,2022
+13062190,11/16/2022 14:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,37,2022
+12935931,12/27/2022 20:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,1,2022
+12894393,11/12/2022 22:03,Assault,Simple,Apartment,FALSE,TRUE,44,2022
+12922254,12/13/2022 21:02,Weapons Violation,Unlawful Possession - Handgun,Parking Lot / Garage (Non Residential),TRUE,FALSE,42,2022
+12918822,12/9/2022 19:15,Criminal Damage,To Property,Apartment,FALSE,FALSE,49,2022
+12898632,11/20/2022 15:45,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,16,2022
+12923029,12/14/2022 19:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,46,2022
+12907643,11/29/2022 18:45,Criminal Damage,To Vehicle,Street,FALSE,FALSE,28,2022
+12928173,12/19/2022 19:00,Motor Vehicle Theft,Automobile,Driveway - Residential,FALSE,FALSE,53,2022
+12916831,12/8/2022 14:18,Theft,Retail Theft,Other (Specify),FALSE,FALSE,8,2022
+12912523,12/4/2022 21:16,Assault,Aggravated - Knife / Cutting Instrument,Residence,FALSE,TRUE,20,2022
+12912019,11/29/2022 13:00,Theft,Over $500,Street,FALSE,FALSE,21,2022
+12933875,12/27/2022 3:00,Criminal Damage,To Vehicle,Street,FALSE,TRUE,25,2022
+12928317,12/1/2022 9:00,Theft,Over $500,Residence,FALSE,FALSE,33,2022
+12933316,12/26/2022 0:01,Deceptive Practice,Fraud Or Confidence Game,Apartment,FALSE,FALSE,57,2022
+12931071,12/22/2022 16:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,1,2022
+12895088,11/16/2022 19:20,Criminal Damage,To Vehicle,Street,FALSE,FALSE,15,2022
+12926208,12/18/2022 4:10,Theft,$500 And Under,Street,FALSE,FALSE,56,2022
+12903916,11/18/2022 12:00,Deceptive Practice,Attempt - Financial Identity Theft,Residence,FALSE,FALSE,66,2022
+12911222,12/3/2022 12:33,Other Offense,Violation Gps Monitoring Device,Residence,FALSE,TRUE,53,2022
+12906638,11/29/2022 2:30,Robbery,Strong Arm - No Weapon,Cta Train,FALSE,FALSE,6,2022
+12896705,11/18/2022 13:27,Assault,Simple,Restaurant,FALSE,FALSE,6,2022
+12897115,11/18/2022 15:30,Public Peace Violation,Arson Threat,Small Retail Store,FALSE,FALSE,44,2022
+12935256,12/26/2022 23:59,Criminal Damage,To Vehicle,Street,FALSE,FALSE,32,2022
+12936390,12/29/2022 14:36,Assault,Simple,Apartment,FALSE,FALSE,28,2022
+12921369,12/12/2022 21:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,35,2022
+12893211,11/14/2022 23:00,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,43,2022
+12906800,11/23/2022 6:00,Theft,Over $500,Driveway - Residential,FALSE,FALSE,17,2022
+12916574,12/7/2022 0:30,Theft,Over $500,Airport Exterior - Secure Area,FALSE,FALSE,76,2022
+12909355,11/13/2022 0:00,Deceptive Practice,Theft Of Labor / Services,Residence,FALSE,FALSE,72,2022
+12897869,11/19/2022 0:01,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,68,2022
+12913305,12/3/2022 23:30,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,2,2022
+12928821,12/17/2022 16:55,Theft,Over $500,Vehicle - Delivery Truck,FALSE,FALSE,54,2022
+12915142,12/7/2022 1:45,Burglary,Forcible Entry,Small Retail Store,FALSE,FALSE,66,2022
+12891588,11/12/2022 22:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,19,2022
+12898872,11/20/2022 17:52,Weapons Violation,Possess Firearm / Ammunition - No Foid Card,Street,TRUE,FALSE,71,2022
+12931847,12/24/2022 12:07,Assault,Aggravated - Handgun,Residence,FALSE,TRUE,46,2022
+12929883,12/21/2022 16:46,Robbery,Attempt Strong Arm - No Weapon,Cta Station,FALSE,FALSE,32,2022
+12955586,12/28/2022 12:35,Deceptive Practice,Financial Identity Theft Over $ 300,Nan,FALSE,FALSE,24,2022
+12915685,12/7/2022 19:45,Assault,Aggravated - Handgun,School - Private Grounds,FALSE,FALSE,26,2022
+12897536,11/18/2022 6:30,Motor Vehicle Theft,Automobile,Vehicle Non-Commercial,FALSE,FALSE,68,2022
+12906703,11/29/2022 6:00,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,66,2022
+12924836,12/16/2022 14:56,Battery,Simple,School - Public Grounds,FALSE,FALSE,75,2022
+12933372,12/25/2022 20:00,Theft,Over $500,Street,FALSE,FALSE,21,2022
+12899977,11/21/2022 23:44,Battery,Aggravated - Handgun,Residence - Porch / Hallway,FALSE,FALSE,49,2022
+12923012,12/14/2022 17:45,Theft,$500 And Under,Street,FALSE,FALSE,8,2022
+12925440,12/17/2022 7:00,Theft,$500 And Under,Residence - Yard (Front / Back),FALSE,FALSE,14,2022
+12914598,12/6/2022 15:00,Assault,Aggravated - Handgun,Residence - Yard (Front / Back),FALSE,FALSE,43,2022
+12906726,11/29/2022 8:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,38,2022
+12911792,12/4/2022 2:50,Assault,Simple,Sidewalk,FALSE,FALSE,8,2022
+12916798,12/4/2022 4:15,Theft,From Building,Apartment,FALSE,FALSE,29,2022
+12963702,12/1/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Nan,FALSE,FALSE,36,2022
+12906197,11/26/2022 12:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Street,FALSE,FALSE,61,2022
+12894653,11/14/2022 15:45,Battery,Simple,School - Public Grounds,FALSE,FALSE,8,2022
+12917593,11/29/2022 12:02,Deceptive Practice,Computer Fraud,Residence,FALSE,FALSE,12,2022
+12932623,12/24/2022 21:09,Battery,"Agg. Domestic Battery - Hands, Fists, Feet, Serious Injury",Apartment,FALSE,TRUE,16,2022
+12949944,11/18/2022 0:01,Deceptive Practice,Financial Identity Theft Over $ 300,Apartment,FALSE,FALSE,29,2022
+12911728,12/4/2022 1:59,Criminal Damage,To Property,Apartment,FALSE,TRUE,69,2022
+12907120,11/29/2022 13:48,Criminal Trespass,To Land,Restaurant,TRUE,FALSE,6,2022
+12913603,12/4/2022 16:00,Motor Vehicle Theft,Automobile,Residence - Garage,FALSE,FALSE,32,2022
+12932709,12/25/2022 14:00,Theft,$500 And Under,Residence,FALSE,FALSE,71,2022
+12903012,11/24/2022 18:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,49,2022
+12905628,11/25/2022 14:00,Deceptive Practice,Theft Of Lost / Mislaid Property,Grocery Food Store,FALSE,FALSE,15,2022
+12909375,11/24/2022 14:00,Theft,From Building,Apartment,FALSE,FALSE,7,2022
+12911090,12/3/2022 9:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,49,2022
+12923849,12/15/2022 16:15,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,8,2022
+12907336,11/29/2022 14:30,Battery,Simple,Apartment,FALSE,FALSE,43,2022
+12931966,12/24/2022 8:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,15,2022
+12930833,12/20/2022 21:52,Criminal Damage,To Property,Apartment,FALSE,FALSE,25,2022
+12919232,12/11/2022 9:00,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,69,2022
+12896538,11/18/2022 11:00,Other Offense,Telephone Threat,Residence,FALSE,FALSE,71,2022
+12918780,12/10/2022 17:39,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,43,2022
+12895105,11/16/2022 19:05,Criminal Trespass,To Residence,Apartment,TRUE,FALSE,68,2022
+12898580,11/20/2022 15:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,22,2022
+12930109,12/22/2022 0:18,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,23,2022
+12927787,12/1/2022 12:10,Deceptive Practice,Credit Card Fraud,Restaurant,FALSE,FALSE,28,2022
+12913192,12/5/2022 15:44,Other Offense,False / Stolen / Altered Trp,Street,TRUE,FALSE,44,2022
+12935696,12/27/2022 14:00,Theft,Over $500,Street,FALSE,FALSE,76,2022
+12902445,11/22/2022 21:40,Burglary,Forcible Entry,Apartment,FALSE,FALSE,7,2022
+12931037,12/23/2022 2:40,Robbery,Armed - Handgun,Street,FALSE,FALSE,28,2022
+27235,12/7/2022 4:13,Homicide,First Degree Murder,House,FALSE,FALSE,49,2022
+12920125,12/11/2022 5:30,Theft,$500 And Under,Parking Lot / Garage (Non Residential),FALSE,FALSE,32,2022
+12926969,12/18/2022 17:45,Battery,Domestic Battery Simple,Residence,TRUE,TRUE,76,2022
+12922559,12/12/2022 17:30,Assault,Simple,Apartment,FALSE,TRUE,68,2022
+12931297,12/23/2022 8:00,Theft,Over $500,Street,FALSE,FALSE,73,2022
+12925771,12/13/2022 2:30,Criminal Damage,To Property,Apartment,FALSE,FALSE,22,2022
+12919756,12/11/2022 14:30,Theft,$500 And Under,Apartment,FALSE,FALSE,27,2022
+12914157,12/5/2022 22:00,Burglary,Forcible Entry,Residence - Garage,FALSE,FALSE,66,2022
+12929868,12/20/2022 13:00,Theft,From Building,Residence - Porch / Hallway,FALSE,FALSE,3,2022
+12933146,12/26/2022 12:22,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,38,2022
+12925013,12/15/2022 19:30,Deceptive Practice,Illegal Use Cash Card,Apartment,FALSE,FALSE,22,2022
+12930267,12/21/2022 19:00,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,61,2022
+12896416,11/14/2022 12:00,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,41,2022
+12900201,11/22/2022 3:00,Theft,Over $500,Street,FALSE,FALSE,27,2022
+12929228,12/20/2022 0:00,Theft,Over $500,Street,FALSE,FALSE,24,2022
+12922545,12/14/2022 10:20,Criminal Damage,To Vehicle,Small Retail Store,FALSE,FALSE,25,2022
+12933651,12/27/2022 4:00,Other Offense,Harassment By Electronic Means,Apartment,FALSE,TRUE,46,2022
+12922859,12/13/2022 20:32,Criminal Damage,To Property,Small Retail Store,FALSE,FALSE,32,2022
+12928512,12/20/2022 13:14,Assault,Simple,Sidewalk,FALSE,FALSE,31,2022
+12898592,11/19/2022 18:11,Battery,Aggravated - Handgun,Street,FALSE,FALSE,42,2022
+12909628,11/25/2022 14:09,Deceptive Practice,Credit Card Fraud,Small Retail Store,FALSE,FALSE,22,2022
+12895821,11/17/2022 12:00,Theft,From Building,Library,FALSE,FALSE,25,2022
+12918413,12/9/2022 20:30,Criminal Trespass,To Residence,Nursing / Retirement Home,FALSE,FALSE,15,2022
+12902927,11/24/2022 15:00,Theft,Retail Theft,Convenience Store,FALSE,FALSE,25,2022
+12935591,12/2/2022 0:01,Deceptive Practice,Illegal Use Cash Card,Apartment,FALSE,FALSE,66,2022
+12891129,11/12/2022 17:33,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,58,2022
+13025377,11/23/2022 9:30,Offense Involving Children,Endangering Life / Health Of Child,Apartment,FALSE,FALSE,39,2022
+12918566,12/10/2022 0:05,Burglary,Forcible Entry,Restaurant,FALSE,FALSE,49,2022
+12901252,11/19/2022 12:00,Deceptive Practice,Fraud Or Confidence Game,Residence,FALSE,FALSE,30,2022
+12899512,11/18/2022 14:00,Deceptive Practice,Credit Card Fraud,Hotel / Motel,FALSE,FALSE,32,2022
+12933358,12/26/2022 19:35,Assault,Simple,Parking Lot / Garage (Non Residential),FALSE,FALSE,29,2022
+12907619,11/29/2022 18:54,Assault,Simple,Residence,TRUE,TRUE,51,2022
+12922866,12/14/2022 16:10,Battery,Domestic Battery Simple,School - Private Grounds,FALSE,TRUE,28,2022
+12921404,12/12/2022 0:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,39,2022
+12928544,12/20/2022 15:13,Other Offense,Harassment By Electronic Means,Apartment,FALSE,FALSE,35,2022
+12925295,12/17/2022 0:15,Robbery,Aggravated Vehicular Hijacking,Street,FALSE,FALSE,40,2022
+12897186,11/18/2022 23:38,Theft,From Building,Residence,FALSE,FALSE,53,2022
+12933821,12/27/2022 9:00,Motor Vehicle Theft,Automobile,Driveway - Residential,FALSE,FALSE,54,2022
+12938708,12/30/2022 23:30,Criminal Damage,To Vehicle,Street,FALSE,FALSE,3,2022
+12911455,12/3/2022 15:23,Criminal Damage,Criminal Defacement,Hotel / Motel,FALSE,FALSE,1,2022
+12937554,12/30/2022 20:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,46,2022
+12925848,12/17/2022 18:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,24,2022
+12933855,12/26/2022 11:00,Criminal Damage,To Property,Apartment,FALSE,TRUE,71,2022
+12902240,11/23/2022 13:00,Assault,Simple,Sidewalk,FALSE,FALSE,29,2022
+12902197,11/23/2022 20:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,19,2022
+12910695,12/2/2022 20:45,Battery,Simple,Street,FALSE,FALSE,25,2022
+12956268,12/22/2022 10:00,Weapons Violation,Reckless Firearm Discharge,Street,FALSE,FALSE,12,2022
+12899719,11/21/2022 18:44,Weapons Violation,Unlawful Use - Other Firearm,Street,FALSE,FALSE,51,2022
+12892461,11/13/2022 12:57,Assault,Aggravated - Other Dangerous Weapon,Cta Station,FALSE,FALSE,29,2022
+12907718,11/29/2022 20:00,Theft,$500 And Under,Street,FALSE,FALSE,24,2022
+12910912,12/3/2022 0:45,Battery,Simple,Residence,FALSE,FALSE,34,2022
+12895269,11/17/2022 3:00,Criminal Damage,To Property,Small Retail Store,FALSE,FALSE,17,2022
+12895701,11/14/2022 7:00,Theft,Over $500,Street,FALSE,FALSE,19,2022
+12895098,11/16/2022 19:33,Robbery,Strong Arm - No Weapon,Small Retail Store,TRUE,FALSE,8,2022
+12891408,11/13/2022 0:00,Motor Vehicle Theft,Attempt - Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,33,2022
+12918645,12/10/2022 11:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,32,2022
+12918385,12/10/2022 8:30,Motor Vehicle Theft,Automobile,Hospital Building / Grounds,FALSE,FALSE,4,2022
+12906756,11/28/2022 20:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,61,2022
+12930629,12/17/2022 18:40,Robbery,Aggravated Vehicular Hijacking,Street,FALSE,FALSE,29,2022
+12910935,12/2/2022 10:00,Theft,$500 And Under,Airport Terminal Upper Level - Non-Secure Area,FALSE,FALSE,76,2022
+12910120,11/29/2022 17:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,7,2022
+12934608,12/28/2022 0:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,43,2022
+12891106,11/12/2022 18:28,Battery,Aggravated - Handgun,Alley,TRUE,FALSE,29,2022
+12918877,12/9/2022 10:30,Battery,Simple,School - Private Grounds,FALSE,FALSE,57,2022
+12920968,12/10/2022 12:00,Burglary,Unlawful Entry,Apartment,FALSE,FALSE,69,2022
+12923454,12/9/2022 11:00,Theft,$500 And Under,Vehicle Non-Commercial,FALSE,FALSE,43,2022
+12905616,11/27/2022 17:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,5,2022
+12941036,12/24/2022 17:45,Theft,Over $500,Grocery Food Store,FALSE,FALSE,6,2022
+12922883,12/5/2022 12:24,Theft,From Building,Small Retail Store,FALSE,FALSE,2,2022
+12936347,12/29/2022 13:30,Battery,"Aggravated P.O. - Hands, Fists, Feet, No / Minor Injury",Gas Station,TRUE,FALSE,44,2022
+12910886,12/2/2022 21:30,Assault,Aggravated - Handgun,Apartment,FALSE,FALSE,43,2022
+12922838,12/14/2022 14:24,Battery,Aggravated - Handgun,Vehicle Non-Commercial,FALSE,FALSE,25,2022
+12930545,12/22/2022 5:00,Theft,$500 And Under,Street,FALSE,FALSE,5,2022
+12937556,12/29/2022 19:30,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,22,2022
+12921569,12/13/2022 5:47,Battery,"Aggravated P.O. - Hands, Fists, Feet, No / Minor Injury",Residence,FALSE,FALSE,20,2022
+12935937,12/29/2022 11:00,Battery,Domestic Battery Simple,Alley,FALSE,TRUE,61,2022
+12894111,11/15/2022 20:00,Burglary,Unlawful Entry,Apartment,FALSE,FALSE,60,2022
+12949420,12/28/2022 14:30,Theft,From Building,Residence - Yard (Front / Back),FALSE,FALSE,25,2022
+12971851,11/19/2022 18:00,Theft,$500 And Under,Parking Lot / Garage (Non Residential),FALSE,FALSE,44,2022
+12925321,12/17/2022 0:00,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,64,2022
+12905427,11/27/2022 16:00,Battery,Aggravated Domestic Battery - Other Dangerous Weapon,Vehicle Non-Commercial,FALSE,TRUE,50,2022
+12927132,12/18/2022 8:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,29,2022
+12936840,12/28/2022 21:11,Theft,Over $500,Street,FALSE,FALSE,40,2022
+12912131,12/4/2022 12:30,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,61,2022
+12978084,11/27/2022 10:25,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,1,2022
+12949026,12/9/2022 15:40,Theft,$500 And Under,Residence,FALSE,FALSE,46,2022
+12906267,11/18/2022 9:00,Deceptive Practice,Financial Identity Theft Over $ 300,Apartment,FALSE,FALSE,25,2022
+12932302,12/25/2022 3:00,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,14,2022
+12925770,12/17/2022 13:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,69,2022
+12910444,12/2/2022 14:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,44,2022
+12905430,11/26/2022 21:30,Motor Vehicle Theft,Theft / Recovery - Automobile,Street,FALSE,FALSE,3,2022
+12917925,12/9/2022 20:42,Theft,Retail Theft,Department Store,FALSE,FALSE,21,2022
+12920433,12/8/2022 12:00,Theft,Over $500,Residence - Porch / Hallway,FALSE,FALSE,35,2022
+12919520,12/11/2022 14:15,Theft,Purse-Snatching,Sidewalk,FALSE,FALSE,29,2022
+12915441,12/4/2022 13:52,Other Offense,Other Crime Involving Property,Residence - Garage,FALSE,FALSE,73,2022
+12914290,12/6/2022 9:45,Theft,Over $500,Street,FALSE,FALSE,17,2022
+12897912,11/17/2022 17:25,Theft,$500 And Under,Apartment,FALSE,FALSE,43,2022
+12917549,12/9/2022 9:53,Theft,Retail Theft,Department Store,TRUE,FALSE,32,2022
+12919005,12/10/2022 22:51,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,22,2022
+12896209,11/18/2022 0:38,Battery,"Agg. Domestic Battery - Hands, Fists, Feet, Serious Injury",Apartment,FALSE,TRUE,11,2022
+12912333,12/4/2022 19:02,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,67,2022
+12931270,12/23/2022 11:30,Battery,Simple,Apartment,FALSE,FALSE,8,2022
+12899058,11/21/2022 0:01,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,27,2022
+12934679,12/28/2022 8:30,Assault,Simple,Residence - Porch / Hallway,FALSE,FALSE,6,2022
+12911543,12/3/2022 21:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,29,2022
+12900657,11/17/2022 18:37,Theft,From Building,Airport Terminal Lower Level - Secure Area,FALSE,FALSE,76,2022
+12896370,11/16/2022 15:00,Theft,Over $500,Cha Parking Lot / Grounds,FALSE,FALSE,30,2022
+12930703,12/22/2022 14:30,Theft,Pocket-Picking,Small Retail Store,FALSE,FALSE,65,2022
+12950199,12/29/2022 15:55,Theft,$500 And Under,Residence,FALSE,FALSE,57,2022
+12895616,11/15/2022 16:10,Theft,Retail Theft,Tavern / Liquor Store,FALSE,FALSE,8,2022
+12919004,12/11/2022 1:27,Public Peace Violation,Reckless Conduct,Street,FALSE,FALSE,56,2022
+12912262,12/4/2022 15:35,Criminal Trespass,To Land,Department Store,FALSE,FALSE,22,2022
+12921894,12/13/2022 2:30,Theft,$500 And Under,Street,FALSE,FALSE,54,2022
+12918937,12/10/2022 7:30,Robbery,Attempt Armed - Handgun,Alley,FALSE,FALSE,24,2022
+12902006,11/23/2022 21:53,Theft,Retail Theft,Department Store,FALSE,FALSE,25,2022
+12905565,11/27/2022 21:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,70,2022
+12920475,12/6/2022 12:00,Deceptive Practice,Fraud Or Confidence Game,Residence,FALSE,FALSE,67,2022
+12905149,11/27/2022 1:03,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,66,2022
+12914644,12/6/2022 21:00,Robbery,Armed - Handgun,Hotel / Motel,FALSE,FALSE,44,2022
+12892629,11/14/2022 10:33,Criminal Damage,To Vehicle,Street,FALSE,FALSE,28,2022
+12922548,12/13/2022 20:00,Theft,Over $500,Street,FALSE,FALSE,22,2022
+12947114,12/23/2022 14:14,Theft,$500 And Under,Residence - Porch / Hallway,FALSE,FALSE,64,2022
+12902239,11/24/2022 7:45,Theft,$500 And Under,Apartment,FALSE,TRUE,26,2022
+12928698,12/20/2022 10:00,Theft,Over $500,School - Public Building,FALSE,FALSE,31,2022
+12897687,11/18/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Apartment,FALSE,FALSE,38,2022
+12932674,12/24/2022 21:50,Robbery,Armed - Handgun,Convenience Store,FALSE,FALSE,50,2022
+12918250,12/9/2022 15:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,60,2022
+12903616,11/26/2022 1:10,Battery,Aggravated - Handgun,Sidewalk,FALSE,FALSE,19,2022
+12902585,11/24/2022 16:05,Burglary,Attempt Forcible Entry,Residence,FALSE,FALSE,59,2022
+12941657,12/24/2022 14:00,Theft,Over $500,Street,FALSE,FALSE,20,2022
+12930931,12/22/2022 20:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,43,2022
+12917244,12/8/2022 15:45,Criminal Trespass,To Land,Commercial / Business Office,FALSE,FALSE,37,2022
+12950475,12/1/2022 7:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,61,2022
+12901878,11/23/2022 18:23,Theft,$500 And Under,Department Store,FALSE,FALSE,8,2022
+27273,12/29/2022 20:00,Homicide,First Degree Murder,Basement,FALSE,FALSE,43,2022
+12930765,12/22/2022 12:28,Other Offense,Telephone Threat,School - Public Grounds,FALSE,FALSE,43,2022
+12894844,11/16/2022 16:35,Assault,Simple,Medical / Dental Office,FALSE,FALSE,72,2022
+12933626,12/27/2022 4:19,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,15,2022
+12902142,11/24/2022 3:09,Battery,Simple,Hotel / Motel,FALSE,FALSE,7,2022
+12915482,12/7/2022 17:45,Other Offense,Telephone Threat,Apartment,FALSE,FALSE,3,2022
+12937318,12/30/2022 21:09,Robbery,Armed - Handgun,Gas Station,FALSE,FALSE,25,2022
+12988022,12/1/2022 0:01,Deceptive Practice,Financial Identity Theft Over $ 300,Apartment,FALSE,FALSE,33,2022
+12912649,12/4/2022 23:21,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,66,2022
+12895304,11/16/2022 22:00,Theft,$500 And Under,Street,FALSE,FALSE,23,2022
+12911703,12/4/2022 0:00,Weapons Violation,Unlawful Possession - Handgun,Alley,TRUE,FALSE,30,2022
+12937614,12/30/2022 22:45,Criminal Damage,To Vehicle,Street,FALSE,FALSE,43,2022
+12926136,12/17/2022 23:35,Narcotics,Found Suspect Narcotics,Residence - Porch / Hallway,TRUE,FALSE,25,2022
+12928915,12/20/2022 18:00,Theft,$500 And Under,Residence,FALSE,FALSE,53,2022
+12907581,11/29/2022 17:45,Criminal Damage,To Vehicle,Street,FALSE,FALSE,23,2022
+12922760,12/10/2022 9:06,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,28,2022
+12926922,12/17/2022 2:16,Criminal Damage,To Vehicle,Street,TRUE,FALSE,7,2022
+12924019,12/15/2022 17:40,Theft,Over $500,Street,FALSE,FALSE,32,2022
+12939510,12/29/2022 1:00,Motor Vehicle Theft,Automobile,Vacant Lot / Land,FALSE,FALSE,40,2022
+12935630,12/28/2022 18:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,44,2022
+12921029,12/12/2022 18:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,46,2022
+12925429,12/16/2022 23:45,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,27,2022
+12914412,11/19/2022 1:20,Battery,Simple,Street,FALSE,FALSE,19,2022
+12924752,12/16/2022 13:04,Assault,Simple,Apartment,FALSE,FALSE,46,2022
+12917647,12/8/2022 22:30,Criminal Damage,To Property,Residence,FALSE,FALSE,4,2022
+12933091,12/26/2022 11:18,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,49,2022
+12954157,12/4/2022 6:00,Criminal Trespass,To Land,Apartment,TRUE,FALSE,7,2022
+12905531,11/27/2022 20:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,49,2022
+12918777,12/10/2022 14:48,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,71,2022
+12911798,12/4/2022 2:35,Battery,Aggravated - Other Dangerous Weapon,Sidewalk,TRUE,FALSE,9,2022
+12911928,11/21/2022 23:30,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,23,2022
+12903803,11/25/2022 1:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,49,2022
+12903233,11/25/2022 12:00,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,45,2022
+12910679,12/2/2022 19:45,Assault,Aggravated - Handgun,Street,FALSE,FALSE,29,2022
+12916324,12/5/2022 10:00,Theft,Over $500,Street,FALSE,FALSE,32,2022
+12901009,11/22/2022 20:45,Assault,Simple,Bar Or Tavern,FALSE,FALSE,6,2022
+12926417,12/17/2022 10:30,Criminal Trespass,To Residence,Apartment,FALSE,FALSE,3,2022
+12902137,11/24/2022 0:30,Theft,$500 And Under,Street,FALSE,FALSE,34,2022
+12910108,12/2/2022 8:30,Motor Vehicle Theft,"Cycle, Scooter, Bike With Vin",Driveway - Residential,FALSE,FALSE,24,2022
+12897634,11/19/2022 12:03,Weapons Violation,Unlawful Possession - Handgun,Sidewalk,TRUE,FALSE,63,2022
+12927606,12/19/2022 16:15,Criminal Trespass,To Land,Apartment,TRUE,FALSE,6,2022
+12937504,12/30/2022 23:45,Offense Involving Children,Child Abandonment,Residence,FALSE,TRUE,27,2022
+12892878,11/14/2022 16:25,Battery,Simple,Medical / Dental Office,FALSE,FALSE,8,2022
+12931120,12/23/2022 2:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,63,2022
+12931732,12/23/2022 19:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,15,2022
+12939500,12/28/2022 21:00,Burglary,Forcible Entry,Residence,FALSE,FALSE,22,2022
+12918824,12/8/2022 9:57,Deceptive Practice,Fraud Or Confidence Game,Other (Specify),FALSE,FALSE,32,2022
+12912618,12/5/2022 1:13,Narcotics,Possess - Crack,Street,TRUE,FALSE,51,2022
+12910090,12/1/2022 8:00,Deceptive Practice,Fraud Or Confidence Game,Residence,FALSE,FALSE,56,2022
+12915943,12/8/2022 3:10,Assault,Aggravated - Handgun,Street,FALSE,FALSE,68,2022
+12940533,12/21/2022 16:00,Motor Vehicle Theft,Attempt - Automobile,Vehicle Non-Commercial,FALSE,FALSE,71,2022
+12926133,12/18/2022 0:29,Criminal Damage,To Property,Bar Or Tavern,FALSE,FALSE,19,2022
+12911366,12/3/2022 3:00,Battery,Aggravated - Knife / Cutting Instrument,Residence,FALSE,TRUE,44,2022
+12925045,12/16/2022 19:15,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,53,2022
+12927921,12/19/2022 18:40,Criminal Damage,To Property,Apartment,FALSE,FALSE,25,2022
+12898311,11/17/2022 0:00,Motor Vehicle Theft,Attempt - Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,43,2022
+12901143,11/22/2022 20:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,51,2022
+12924039,12/15/2022 17:16,Theft,Retail Theft,Drug Store,FALSE,FALSE,77,2022
+12907615,11/29/2022 22:00,Criminal Damage,To Property,Residence,FALSE,FALSE,14,2022
+12921762,12/13/2022 14:30,Theft,Over $500,Sidewalk,FALSE,FALSE,22,2022
+12892883,11/14/2022 6:00,Theft,Over $500,Street,FALSE,FALSE,24,2022
+12936638,12/29/2022 16:30,Motor Vehicle Theft,Automobile,Street,TRUE,FALSE,39,2022
+12891890,11/12/2022 21:30,Theft,Over $500,Restaurant,FALSE,FALSE,8,2022
+12900703,11/21/2022 0:00,Deceptive Practice,Credit Card Fraud,Atm (Automatic Teller Machine),FALSE,FALSE,32,2022
+12917109,12/8/2022 23:30,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,43,2022
+12914727,12/7/2022 0:17,Battery,Aggravated - Other Dangerous Weapon,Apartment,FALSE,FALSE,13,2022
+12911999,12/3/2022 23:30,Criminal Damage,To Vehicle,Residence,FALSE,TRUE,48,2022
+12918451,12/10/2022 13:15,Other Offense,Harassment By Electronic Means,Apartment,FALSE,FALSE,30,2022
+12896139,11/17/2022 22:20,Criminal Damage,To Vehicle,Street,FALSE,FALSE,8,2022
+12898063,11/19/2022 22:56,Assault,Simple,Apartment,FALSE,TRUE,27,2022
+12905790,11/27/2022 16:00,Theft,Over $500,Street,FALSE,FALSE,39,2022
+12922066,12/10/2022 14:00,Criminal Damage,To Property,Medical / Dental Office,FALSE,FALSE,24,2022
+12895993,11/17/2022 17:00,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,7,2022
+12899798,11/16/2022 9:25,Theft,From Building,Residence,FALSE,FALSE,8,2022
+12933105,12/23/2022 15:00,Deceptive Practice,Forgery,Residence,FALSE,FALSE,12,2022
+12933463,12/26/2022 20:52,Weapons Violation,Unlawful Possession - Handgun,Sidewalk,TRUE,FALSE,26,2022
+12920044,12/11/2022 0:22,Criminal Damage,To Vehicle,Street,FALSE,FALSE,71,2022
+12929885,12/21/2022 13:00,Motor Vehicle Theft,Automobile,Residence,FALSE,FALSE,35,2022
+12915256,12/7/2022 5:30,Robbery,Armed - Handgun,Apartment,FALSE,FALSE,24,2022
+12937070,12/29/2022 22:00,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,32,2022
+12911425,12/3/2022 15:55,Battery,Simple,Residence,TRUE,FALSE,67,2022
+12923283,12/14/2022 23:45,Battery,Domestic Battery Simple,Apartment,TRUE,TRUE,46,2022
+12896125,11/17/2022 20:32,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,6,2022
+12933796,12/26/2022 22:26,Other Offense,Harassment By Electronic Means,Apartment,FALSE,TRUE,11,2022
+12894172,11/15/2022 21:25,Assault,Aggravated - Handgun,Restaurant,TRUE,FALSE,35,2022
+12905376,11/27/2022 19:44,Theft,Retail Theft,Department Store,TRUE,FALSE,20,2022
+12943423,12/30/2022 18:10,Theft,From Building,Restaurant,FALSE,FALSE,32,2022
+12916837,12/5/2022 15:05,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,8,2022
+12903806,11/26/2022 6:47,Deceptive Practice,Theft Of Labor / Services,Street,FALSE,FALSE,44,2022
+12909088,11/26/2022 12:00,Other Offense,Abuse / Neglect - Care Facility,Nursing / Retirement Home,FALSE,FALSE,22,2022
+12924607,12/9/2022 9:00,Theft,$500 And Under,Residence,FALSE,FALSE,49,2022
+12929932,12/21/2022 16:47,Theft,Retail Theft,Small Retail Store,TRUE,FALSE,32,2022
+12912982,12/4/2022 19:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,3,2022
+12925289,12/16/2022 21:25,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,28,2022
+12914892,12/7/2022 7:06,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,23,2022
+12927173,12/18/2022 16:50,Assault,Aggravated - Handgun,Sidewalk,FALSE,FALSE,38,2022
+12895169,11/16/2022 23:30,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,53,2022
+12893751,11/15/2022 14:43,Narcotics,Possess - Cannabis More Than 30 Grams,Street,TRUE,FALSE,73,2022
+12900654,11/22/2022 12:00,Deceptive Practice,Illegal Use Cash Card,Apartment,FALSE,FALSE,71,2022
+12908859,11/28/2022 12:15,Battery,Simple,Street,FALSE,FALSE,28,2022
+12896164,11/17/2022 21:17,Assault,Aggravated - Knife / Cutting Instrument,Apartment,FALSE,TRUE,29,2022
+12899496,11/20/2022 18:15,Assault,Simple,Apartment,FALSE,TRUE,29,2022
+12937664,12/29/2022 1:00,Battery,Simple,Gas Station,FALSE,FALSE,73,2022
+12937351,12/30/2022 17:57,Battery,Simple,Residence,FALSE,FALSE,66,2022
+12920061,12/12/2022 0:43,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,25,2022
+12898789,11/20/2022 17:54,Battery,Domestic Battery Simple,Residence,TRUE,TRUE,30,2022
+12894286,11/16/2022 3:59,Burglary,Forcible Entry,Commercial / Business Office,FALSE,FALSE,42,2022
+12909549,11/24/2022 0:10,Battery,Simple,Sidewalk,FALSE,FALSE,6,2022
+12932520,12/25/2022 15:30,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,27,2022
+12907345,11/29/2022 14:34,Assault,Simple,Restaurant,FALSE,FALSE,10,2022
+12902810,11/25/2022 0:05,Criminal Damage,To Property,Apartment,FALSE,FALSE,1,2022
+12900527,11/22/2022 15:14,Theft,Retail Theft,Department Store,TRUE,FALSE,3,2022
+12932263,12/25/2022 0:30,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,14,2022
+12904217,11/24/2022 7:00,Theft,From Building,Apartment,FALSE,FALSE,8,2022
+12928200,12/1/2022 0:00,Other Offense,Harassment By Telephone,Apartment,FALSE,FALSE,3,2022
+12893264,11/15/2022 2:42,Battery,Simple,Apartment,FALSE,FALSE,1,2022
+12941907,12/31/2022 0:00,Robbery,Strong Arm - No Weapon,Commercial / Business Office,FALSE,FALSE,28,2022
+12933247,12/26/2022 13:15,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,1,2022
+12908948,11/29/2022 13:00,Theft,$500 And Under,Street,FALSE,FALSE,25,2022
+12906060,11/28/2022 13:53,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,8,2022
+12932651,12/25/2022 14:30,Assault,Simple,Residence,FALSE,FALSE,39,2022
+12911582,12/3/2022 19:00,Theft,Attempt Theft,Small Retail Store,FALSE,FALSE,32,2022
+12935141,12/28/2022 7:45,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,43,2022
+12920341,12/12/2022 9:51,Narcotics,Possess - Cannabis More Than 30 Grams,Street,TRUE,FALSE,23,2022
+12938093,12/29/2022 12:00,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,10,2022
+12923307,12/6/2022 18:00,Other Offense,Harassment By Telephone,Residence,FALSE,TRUE,61,2022
+12891743,11/13/2022 15:15,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,66,2022
+12929620,12/21/2022 0:00,Other Offense,Telephone Threat,Residence,FALSE,TRUE,31,2022
+12910861,12/2/2022 23:50,Robbery,Armed - Handgun,Street,FALSE,FALSE,68,2022
+12914802,12/7/2022 3:52,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,8,2022
+12891466,11/13/2022 7:00,Theft,$500 And Under,Street,FALSE,FALSE,72,2022
+12895752,11/17/2022 14:34,Other Offense,Sex Offender - Fail To Register,Street,TRUE,FALSE,68,2022
+12910186,12/2/2022 11:20,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,66,2022
+12918761,12/9/2022 19:00,Theft,Over $500,Vehicle Non-Commercial,FALSE,FALSE,66,2022
+12907616,11/18/2022 0:00,Theft,$500 And Under,Apartment,FALSE,FALSE,28,2022
+12906023,11/26/2022 13:00,Theft,Over $500,Street,FALSE,FALSE,39,2022
+12896892,11/18/2022 18:00,Criminal Damage,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,8,2022
+12921542,12/13/2022 9:17,Other Offense,False / Stolen / Altered Trp,Street,FALSE,FALSE,58,2022
+12913360,12/4/2022 19:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,40,2022
+12932311,12/25/2022 0:26,Other Offense,Telephone Threat,Residence,FALSE,FALSE,28,2022
+12891082,11/12/2022 17:00,Other Offense,Telephone Threat,Apartment,FALSE,TRUE,42,2022
+12945331,12/20/2022 0:25,Theft,Over $500,Other Commercial Transportation,FALSE,FALSE,28,2022
+12891876,11/13/2022 16:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,23,2022
+12899416,11/21/2022 12:35,Battery,Simple,Alley,FALSE,FALSE,62,2022
+12894419,11/14/2022 5:45,Criminal Trespass,To Vehicle,Parking Lot / Garage (Non Residential),FALSE,FALSE,75,2022
+12932104,12/24/2022 17:25,Battery,Aggravated Protected Employee - Knife / Cutting Instrument,Street,FALSE,FALSE,24,2022
+12909955,12/2/2022 6:55,Theft,Over $500,Street,FALSE,FALSE,10,2022
+12897930,11/18/2022 15:45,Theft,Pocket-Picking,Other (Specify),FALSE,FALSE,8,2022
+12910288,12/2/2022 13:12,Assault,Simple,Grocery Food Store,FALSE,FALSE,1,2022
+12933488,12/26/2022 14:00,Assault,Simple,Apartment,FALSE,TRUE,69,2022
+12895047,11/15/2022 13:49,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,24,2022
+12915333,12/6/2022 16:15,Battery,Simple,Restaurant,FALSE,FALSE,28,2022
+12901132,11/23/2022 1:41,Criminal Damage,To Property,Hotel / Motel,FALSE,FALSE,32,2022
+12893642,11/15/2022 12:30,Motor Vehicle Theft,Automobile,Gas Station,FALSE,FALSE,8,2022
+12915605,12/7/2022 2:00,Burglary,Forcible Entry,Other (Specify),FALSE,FALSE,77,2022
+12914957,12/6/2022 20:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Street,FALSE,FALSE,36,2022
+12907148,11/29/2022 12:02,Weapons Violation,Unlawful Possession - Handgun,Sidewalk,FALSE,FALSE,69,2022
+12939660,12/30/2022 17:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,28,2022
+12899897,11/21/2022 7:00,Burglary,Forcible Entry,Apartment,FALSE,FALSE,16,2022
+12910018,12/2/2022 7:50,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,46,2022
+12921092,12/12/2022 17:25,Criminal Damage,To Vehicle,Street,FALSE,TRUE,44,2022
+12902360,11/23/2022 3:30,Robbery,Vehicular Hijacking,Street,FALSE,FALSE,24,2022
+12923026,12/11/2022 18:45,Sex Offense,Criminal Sexual Abuse,Sidewalk,FALSE,FALSE,42,2022
+12919184,12/10/2022 12:50,Theft,Purse-Snatching,Street,FALSE,FALSE,44,2022
+12918275,12/10/2022 9:30,Theft,$500 And Under,Medical / Dental Office,FALSE,FALSE,8,2022
+12930883,12/21/2022 19:39,Theft,Retail Theft,Department Store,FALSE,FALSE,7,2022
+12931954,12/24/2022 17:00,Criminal Damage,To Property,Residence,FALSE,FALSE,66,2022
+12929195,12/20/2022 17:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,20,2022
+12925759,12/16/2022 9:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,10,2022
+12900883,11/21/2022 3:59,Criminal Damage,To Property,Apartment,FALSE,FALSE,66,2022
+12899362,11/21/2022 9:45,Theft,From Building,Apartment,FALSE,FALSE,8,2022
+12900698,11/22/2022 15:29,Theft,Over $500,Parking Lot / Garage (Non Residential),FALSE,FALSE,8,2022
+12930053,12/21/2022 18:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,41,2022
+12898408,11/20/2022 4:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,29,2022
+12904951,11/27/2022 12:05,Battery,Domestic Battery Simple,Residence,FALSE,TRUE,56,2022
+12902361,11/24/2022 7:30,Criminal Damage,To Vehicle,Street,FALSE,TRUE,71,2022
+12905646,11/27/2022 11:50,Sex Offense,Aggravated Criminal Sexual Abuse,Alley,FALSE,FALSE,44,2022
+12919854,12/11/2022 16:45,Battery,Domestic Battery Simple,Sidewalk,FALSE,TRUE,38,2022
+12912468,12/4/2022 19:13,Criminal Trespass,To Land,Drug Store,TRUE,FALSE,14,2022
+12916157,11/28/2022 9:00,Theft,Over $500,Sidewalk,FALSE,FALSE,41,2022
+12935040,12/28/2022 16:30,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,16,2022
+12929792,12/21/2022 16:07,Criminal Damage,To Vehicle,Apartment,FALSE,FALSE,41,2022
+12901974,11/23/2022 23:56,Weapons Violation,Reckless Firearm Discharge,Residence - Yard (Front / Back),FALSE,FALSE,58,2022
+12999491,12/1/2022 0:00,Deceptive Practice,Financial Identity Theft Over $ 300,Residence,FALSE,FALSE,47,2022
+12916369,12/7/2022 18:52,Assault,Simple,Commercial / Business Office,FALSE,TRUE,32,2022
+12897121,11/18/2022 20:30,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,65,2022
+12926689,12/18/2022 17:12,Weapons Violation,Unlawful Possession - Handgun,Street,TRUE,FALSE,8,2022
+12922377,11/23/2022 6:00,Theft,Over $500,Residence,FALSE,FALSE,22,2022
+12906883,11/27/2022 19:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,43,2022
+12908891,11/27/2022 14:00,Theft,$500 And Under,Nursing / Retirement Home,FALSE,FALSE,35,2022
+12932627,12/22/2022 6:25,Theft,$500 And Under,Residence - Yard (Front / Back),FALSE,FALSE,53,2022
+12929425,12/21/2022 1:40,Criminal Damage,To Property,Street,FALSE,FALSE,43,2022
+12893550,11/15/2022 11:47,Battery,Simple,Commercial / Business Office,FALSE,FALSE,77,2022
+12919847,12/11/2022 1:00,Theft,Over $500,School - Public Building,FALSE,FALSE,39,2022
+12940994,12/22/2022 6:00,Motor Vehicle Theft,Theft / Recovery - Automobile,Street,FALSE,FALSE,25,2022
+12911448,12/1/2022 22:00,Theft,Over $500,Street,FALSE,FALSE,22,2022
+12908261,11/19/2022 16:00,Burglary,Unlawful Entry,Residence - Garage,FALSE,FALSE,53,2022
+12895197,11/16/2022 23:27,Assault,Aggravated - Handgun,Street,TRUE,FALSE,68,2022
+12916438,12/8/2022 11:00,Theft,Over $500,Street,FALSE,FALSE,41,2022
+12993418,12/31/2022 0:00,Deceptive Practice,Forgery,Other (Specify),FALSE,FALSE,25,2022
+12894204,11/14/2022 22:00,Robbery,Armed - Handgun,Apartment,FALSE,FALSE,43,2022
+12920086,12/11/2022 23:15,Theft,$500 And Under,Street,FALSE,FALSE,42,2022
+12910606,11/30/2022 2:10,Theft,$500 And Under,Apartment,FALSE,FALSE,30,2022
+12920764,12/12/2022 16:30,Battery,Domestic Battery Simple,Street,FALSE,TRUE,23,2022
+12932894,12/17/2022 15:00,Theft,From Building,Apartment,FALSE,FALSE,43,2022
+12906391,11/28/2022 15:00,Battery,Aggravated Domestic Battery - Knife / Cutting Instrument,Residence,FALSE,TRUE,61,2022
+12906224,11/28/2022 9:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,7,2022
+12917474,12/9/2022 12:15,Theft,Retail Theft,Grocery Food Store,TRUE,FALSE,10,2022
+12901584,11/23/2022 16:08,Criminal Damage,To Vehicle,Sidewalk,FALSE,FALSE,23,2022
+12908037,11/30/2022 9:30,Theft,Over $500,Street,FALSE,FALSE,31,2022
+12891208,11/12/2022 23:38,Assault,Aggravated - Handgun,Residence,FALSE,TRUE,75,2022
+12909076,11/23/2022 14:00,Theft,From Building,Other (Specify),FALSE,FALSE,29,2022
+12924591,12/15/2022 21:00,Theft,$500 And Under,Street,FALSE,FALSE,1,2022
+12898792,11/19/2022 22:00,Theft,Over $500,Street,FALSE,FALSE,4,2022
+12908800,11/30/2022 21:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,25,2022
+12918555,12/10/2022 13:38,Weapons Violation,Reckless Firearm Discharge,Street,FALSE,FALSE,66,2022
+12891570,11/13/2022 8:00,Battery,Domestic Battery Simple,Apartment,FALSE,TRUE,43,2022
+12968476,12/7/2022 9:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,52,2022
+12918827,12/4/2022 16:43,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,8,2022
+12893058,11/14/2022 10:17,Theft,$500 And Under,Residence - Garage,FALSE,FALSE,14,2022
+12915138,12/5/2022 12:00,Other Offense,Telephone Threat,Residence,FALSE,TRUE,66,2022
+12930573,12/20/2022 18:30,Theft,Over $500,Street,FALSE,FALSE,4,2022
+13008346,11/18/2022 19:00,Battery,Simple,Hospital Building / Grounds,FALSE,FALSE,28,2022
+12901570,11/23/2022 14:00,Battery,Aggravated - Other Dangerous Weapon,Street,FALSE,FALSE,69,2022
+12900142,11/21/2022 21:30,Burglary,Forcible Entry,Residence - Garage,FALSE,FALSE,66,2022
+12904220,11/26/2022 1:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,43,2022
+12933974,12/12/2022 7:00,Theft,$500 And Under,Residence - Porch / Hallway,FALSE,FALSE,58,2022
+12898850,11/20/2022 18:20,Criminal Trespass,To Land,Commercial / Business Office,TRUE,FALSE,46,2022
+12935444,12/28/2022 22:30,Battery,Simple,Apartment,FALSE,FALSE,16,2022
+12912124,12/2/2022 13:55,Theft,Over $500,Street,FALSE,FALSE,28,2022
+12944144,12/27/2022 17:35,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,24,2022
+12919500,12/10/2022 14:00,Criminal Damage,To Property,Apartment,FALSE,FALSE,68,2022
+12906686,11/29/2022 4:30,Robbery,Armed - Handgun,Cta Train,FALSE,FALSE,6,2022
+12900361,11/14/2022 20:37,Criminal Damage,To Vehicle,Airport Parking Lot,FALSE,FALSE,56,2022
+12926390,12/18/2022 8:40,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,43,2022
+12892843,11/14/2022 14:12,Theft,Retail Theft,Commercial / Business Office,FALSE,FALSE,32,2022
+27237,12/7/2022 11:38,Homicide,First Degree Murder,Apartment,TRUE,TRUE,44,2022
+12940081,12/29/2022 17:00,Motor Vehicle Theft,Automobile,Parking Lot / Garage (Non Residential),FALSE,FALSE,25,2022
+12912522,12/4/2022 20:22,Narcotics,Manufacture / Deliver - Hallucinogen,Sidewalk,TRUE,FALSE,3,2022
+12909358,11/29/2022 13:30,Other Offense,Telephone Threat,Residence,FALSE,FALSE,67,2022
+12925976,12/17/2022 20:00,Robbery,Vehicular Hijacking,Street,FALSE,FALSE,25,2022
+12898148,11/20/2022 1:12,Criminal Damage,To Vehicle,Street,FALSE,FALSE,58,2022
+12929905,12/21/2022 19:21,Robbery,Armed - Handgun,Parking Lot / Garage (Non Residential),FALSE,FALSE,25,2022
+12913815,12/5/2022 21:00,Burglary,Unlawful Entry,Residence - Garage,FALSE,FALSE,21,2022
+12900921,11/22/2022 23:00,Robbery,Armed - Handgun,Sidewalk,FALSE,FALSE,67,2022
+12906565,11/28/2022 23:56,Criminal Damage,To Property,Cha Apartment,FALSE,FALSE,54,2022
+12930901,12/22/2022 19:00,Deceptive Practice,Fraud Or Confidence Game,Apartment,FALSE,FALSE,33,2022
+12934649,12/17/2022 2:20,Criminal Trespass,To Land,Residence - Yard (Front / Back),FALSE,FALSE,31,2022
+12893464,11/15/2022 2:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,45,2022
+12910771,12/2/2022 20:04,Robbery,Armed - Handgun,Street,FALSE,FALSE,36,2022
+12923516,12/15/2022 10:20,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,4,2022
+12907077,11/28/2022 17:59,Robbery,Aggravated,Parking Lot / Garage (Non Residential),FALSE,FALSE,69,2022
+12917476,12/9/2022 9:54,Battery,Simple,Grocery Food Store,FALSE,FALSE,43,2022
+12904168,11/23/2022 20:00,Theft,Over $500,Street,FALSE,FALSE,24,2022
+12906112,11/28/2022 15:44,Theft,Over $500,Restaurant,FALSE,FALSE,25,2022
+12905335,11/26/2022 12:00,Theft,$500 And Under,Sidewalk,FALSE,FALSE,3,2022
+12924001,12/15/2022 3:00,Assault,Aggravated - Handgun,Residence,FALSE,TRUE,51,2022
+12934574,12/28/2022 3:00,Motor Vehicle Theft,Attempt - Automobile,Street,FALSE,FALSE,75,2022
+12920761,12/12/2022 11:30,Battery,Simple,School - Public Building,FALSE,FALSE,69,2022
+12910994,12/3/2022 6:00,Motor Vehicle Theft,Automobile,Vehicle Non-Commercial,FALSE,FALSE,70,2022
+12915248,12/7/2022 11:34,Narcotics,Possess - Cocaine,Sidewalk,TRUE,FALSE,1,2022
+12929400,11/30/2022 13:00,Theft,Over $500,School - Public Grounds,FALSE,FALSE,71,2022
+12897158,11/18/2022 20:38,Criminal Sexual Assault,Non-Aggravated,Alley,FALSE,FALSE,25,2022
+12918074,12/9/2022 20:00,Battery,Aggravated Domestic Battery - Other Dangerous Weapon,Apartment,FALSE,TRUE,39,2022
+12935555,12/28/2022 19:00,Motor Vehicle Theft,Automobile,Street,FALSE,FALSE,25,2022
+12914752,12/7/2022 2:45,Battery,Simple,Sidewalk,TRUE,FALSE,6,2022
+12899139,11/21/2022 6:04,Robbery,Armed - Handgun,Street,FALSE,FALSE,23,2022
+12911946,12/4/2022 8:00,Robbery,Aggravated,Apartment,FALSE,FALSE,33,2022
+12894556,11/16/2022 10:41,Battery,Simple,Cta Platform,TRUE,FALSE,32,2022
+12892792,11/14/2022 16:00,Criminal Damage,To Vehicle,Factory / Manufacturing Building,FALSE,FALSE,31,2022
+12968486,12/25/2022 16:01,Criminal Damage,To Property,Apartment,FALSE,TRUE,60,2022
+12892496,11/14/2022 7:45,Motor Vehicle Theft,Automobile,Vehicle Non-Commercial,FALSE,FALSE,28,2022
+12923753,12/15/2022 14:00,Theft,From Building,School - Public Building,FALSE,FALSE,68,2022
+12901594,11/23/2022 16:46,Criminal Damage,To Property,Apartment,FALSE,FALSE,25,2022
+12928369,12/20/2022 1:00,Theft,$500 And Under,Street,FALSE,FALSE,66,2022
+12911691,12/3/2022 19:45,Robbery,Attempt Strong Arm - No Weapon,Sidewalk,FALSE,FALSE,24,2022
+12908246,11/30/2022 14:50,Theft,Retail Theft,Small Retail Store,FALSE,FALSE,71,2022
+12935373,12/28/2022 20:00,Criminal Damage,To Vehicle,Street,FALSE,FALSE,14,2022
+12892135,11/14/2022 1:35,Other Offense,False / Stolen / Altered Trp,Park Property,FALSE,FALSE,66,2022
+12906790,11/28/2022 18:00,Burglary,Forcible Entry,Apartment,FALSE,FALSE,29,2022
+12894046,11/15/2022 21:00,Other Offense,Telephone Threat,Bar Or Tavern,FALSE,FALSE,6,2022
+12929044,12/20/2022 20:45,Robbery,Vehicular Hijacking,Vehicle Non-Commercial,FALSE,FALSE,46,2022
+12917740,12/8/2022 11:45,Criminal Damage,To Property,Apartment,FALSE,FALSE,43,2022
+12919354,12/10/2022 19:00,Criminal Damage,To Property,Commercial / Business Office,FALSE,FALSE,4,2022
+12899637,11/18/2022 21:53,Stalking,Cyberstalking,Restaurant,FALSE,FALSE,8,2022
+12901856,11/22/2022 22:00,Theft,Over $500,Street,FALSE,FALSE,24,2022
+12904291,11/26/2022 18:25,Criminal Damage,To Property,Residence,FALSE,TRUE,67,2022
+12901858,11/22/2022 2:00,Other Offense,Harassment By Electronic Means,Apartment,FALSE,FALSE,43,2022
